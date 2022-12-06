@@ -19,7 +19,7 @@ DSC badges are awarded at the request of workshop participants after a DSC staff
 
 ### Earn an Informal Credential or Badge
 
-If you’d like to earn a DSC badge for this workshop, please email the following to: [sharonddias@uvic.ca](mailto:dscommons@uvic.ca){:target="_blank"}
+If you’d like to earn a DSC badge for this workshop, please email the following to: [sharonddias@uvic.ca](mailto:sharonddias@uvic.ca){:target="_blank"}
 1. A link to your survey
 2. A graph or other visual of survey results
 
