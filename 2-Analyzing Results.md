@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 1- Creating Basic Multiple Choice Surveys
+title: 2 - Analyzing Results
 nav_order: 3
 parent: Workshop Activities
 ---
