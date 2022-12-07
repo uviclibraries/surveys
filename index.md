@@ -13,7 +13,7 @@ nav_order: 1
 
 ## Why SurveyMonkey?
 
-[SurveyMonkey](https://www.surveymonkey.com/){:target="_blank"} is an online survey creation tool.  It has many free survey features, with a paid upgrade option for advanced features.  Most users will be able to make both qualitative and quantitative features with a free account.
+[SurveyMonkey](https://www.surveymonkey.com/){:target="_blank"} is an online survey creation tool.  This tool allows us to create powerful surveys, quickly spread the it through many online channels and rapidly visualize the survey results.  
 
 ## Learning objectives
 

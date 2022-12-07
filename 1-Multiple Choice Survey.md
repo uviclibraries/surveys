@@ -16,8 +16,9 @@ parent: Workshop Activities
     <img src="images/act-1/sm-1-03.png" style="margin-left:10px;width:600px;" alt="name survey">
 
 5.	Click on **"CREATE A SURVEY"**:
-    <img src="images/act-1/sm-1-04.png" style="margin-left:10px;width:150px;" alt="create a survey button">
-6.	Now you have created the workspace for your survey. Please take a moment to visualize and explore a bit your SurveyMonkey workspace. 
+    <img src="images/act-1/sm-1-04.png" style="margin-left:10px;float:right; width:150px;" alt="create a survey button">
+
+6.	Now you have created the workspace for your survey. Please take a moment to visualize and explore your SurveyMonkey workspace. 
 
     - On the top ribbon you will see the stages of your survey from “SUMMARY TO PRESENT RESULTS”. 
     - In the left pane you will see that there are icons with option for your survey building process such as “BUILD”, “STYLE”, etc. 
@@ -70,7 +71,8 @@ parent: Workshop Activities
  o	Slightly concerned
  o	Not at all concerned
 
- Q4. Do you believe that society is spending too much time trying to reduce global warming, too little time, or about the right amount of time?
+ Q4. Do you believe that society is spending too much time trying to reduce global warming, too little time, 
+ or about the right amount of time?
  o	Much too much
  o	Somehow too much
  o	Slightly too much
@@ -115,50 +117,50 @@ parent: Workshop Activities
  Other (Please Specify)
  ```
 
-_Tip: Note that for the question above you have an open ending option, to add that type it down in the end of the question where it says “ADD AN “OTHER” ANWER OPTION OR COMMENT FIELD” as the following image:_
+ - _Tip: Note that for the question above you have an open ending option, to add that type it down in the end of the question where it says “ADD AN “OTHER” ANWER OPTION OR COMMENT FIELD” as the following image:_
 
-<img src="images/act-1/sm-1-13.png" style="margin-left:10px; width:600px;" alt="create survey">
+ <img src="images/act-1/sm-1-13.png" style="margin-left:10px; width:600px;" alt="create survey">
 
-```
-Q9. Should the universities create more projects or less projects to support 
-alternative energy??
+ ```
+ Q9. Should the universities create more projects or less projects to support 
+ alternative energy??
 
-o	Much more projects
-o	Somewhat more projects
-o	Slightly more projects
-o	About the same amount of projects
-o	Slightly less projects
-o	Somewhat less projects
-o	Much less projects 
+ o	Much more projects
+ o	Somewhat more projects
+ o	Slightly more projects
+ o	About the same amount of projects
+ o	Slightly less projects
+ o	Somewhat less projects
+ o	Much less projects 
 
-Q10. How often do you recycle?
+ Q10. How often do you recycle?
 
-o	Always
-o	Most of the time
-o	About half the time
-o	Once in a while
-o	Never
+ o	Always
+ o	Most of the time
+ o	About half the time
+ o	Once in a while
+ o	Never
 
-Q11. How willing are you to change your lifestyle to reduce the damage you may cause 
-to the environment?
+ Q11. How willing are you to change your lifestyle to reduce the damage you may cause 
+ to the environment?
 
-o	Extremely willing
-o	Very willing
-o	Somewhat willing
-o	Not so willing
-o	Not at all willing
+ o	Extremely willing
+ o	Very willing
+ o	Somewhat willing
+ o	Not so willing
+ o	Not at all willing
 
-Q12. How likely are you to buy a more expensive product if its packaging is more 
-environmentally-friendly than its competitor’s product?
+ Q12. How likely are you to buy a more expensive product if its packaging is more 
+ environmentally-friendly than its competitor’s product?
 
-o	Extremely likely
-o	Very likely
-o	Moderately likely
-o	Slightly likely
-o	Not at all likely
-```
+ o	Extremely likely
+ o	Very likely
+ o	Moderately likely
+ o	Slightly likely
+ o	Not at all likely
+ ```
 
-<img src="images/act-1/sm-1-14.png" style="margin-left:10px; float:right; width:200px;" alt="create survey">
+ <img src="images/act-1/sm-1-14.png" style="margin-left:10px; float:right; width:200px;" alt="create survey">
 
 11. Now that our questions are complete we can format our survey. It is a great time to use our creativity and think strategically about having a survey that engages the audience beyond the survey questions. We can add color to the survey, add a logo, a footer, the layout, fronts, and we can also choose different themes for the survey.  Click on the icon “STYLE” on the left column and modify the style of your survey by adding colors, changing the font, adding a image as a logo from your choosing and so on.
     
@@ -193,11 +195,13 @@ o	Not at all likely
     <img src="images/act-1/sm-1-24.png" style=" width:400px;" alt="create survey"> 
     
     - To customize the link, simply click on the button “CUSTOMIZE” on the right side of your web link and change the name after the /. Then click on “SAVE”. I for example, chose to call my survey ENVIRONMENTSURVEY.
+
     <img src="images/act-1/sm-1-25.png" style="width:400px;" alt="create survey"> 
 
 17.	Now we are all set up to collect answers, copy the link and share with five people in this workshop, and make sure to also respond the survey link that your colleagues will send to you. Please be aware that anyone with your survey link will be able to answer it. 
 
-    - _This step will take 2-3 minutes. Below you can see my link, but you need to copy your own weblink. Feel free to respond it as well. _
+    - This step will take 2-3 minutes. Below you can see my link, but you need to copy your own weblink. Feel free to respond it as well.
+
     [https://www.surveymonkey.ca/r/ENVIRONMENTSURVEY](https://www.surveymonkey.ca/r/ENVIRONMENTSURVEY){:target="_blank"}
 
 
