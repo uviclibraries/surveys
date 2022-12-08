@@ -7,11 +7,9 @@ nav_order: 9
 
  <!--- https://api.badgr.io/public/badges/VniblBxHTduaHgNkPtAVfQ/image -->
 
-# Informal Credentials or Digital Badges - COMING SOON
+# Informal Credentials or Digital Badges
 
 The Digital Scholarship Commons (DSC) awards digital badges, or informal credentialing, for the successful completion of this workshop. We award badges as an informal credential in order to help workshop participants, who wish to, make public the fact that they have developed survey skills. 
-
-## This workshop is under development and does not have a badge yet - stay tuned for updates!
 
 DSC electronic badges are [cryptographically signed](https://badgecheck.io/){:target="_blank"} and have the recipients email address embedded in the signing so that it cannot be used by anyone else. Also embedded in the badge is a [link to the learning objectives for the workshop](https://badgr.com/backpack/badges/607767abb78d4c65fc8f1676){:target="_blank"} so that employers or anyone who sees the badge can determine what was done to earn the badge. 
 
