@@ -12,10 +12,10 @@ parent: Workshop Activities
     <img src="images/act-1/sm-1-01.png" style="margin-left:10px;width:600px;" alt="create survey">
 3.	Go to the left pane and click on ‘START FROM SCRATCH” as in the picture below:
     <img src="images/act-1/sm-1-02.png" style="margin-left:10px;width:200px;" alt="start from scratch">
-4.	 The box below will pop up, name your survey as **“ENVIRONMENTAL ATTITUDE SURVEY”**, for category you can choose “OTHER” and click on “USE MY OWN CONTACTS”.
+4.	 The box below will pop up, name your survey as <code>ENVIRONMENTAL ATTITUDE SURVEY</code>, for category you can choose “OTHER” and click on “USE MY OWN CONTACTS”.
     <img src="images/act-1/sm-1-03.png" style="margin-left:10px;width:600px;" alt="name survey">
 
-5.	Click on **"CREATE A SURVEY"**:
+5.	Click on **CREATE A SURVEY**:
     <img src="images/act-1/sm-1-04.png" style="margin-left:10px;float:right; width:150px;" alt="create a survey button">
 
 6.	Now you have created the workspace for your survey. Please take a moment to visualize and explore your SurveyMonkey workspace. 
@@ -25,9 +25,9 @@ parent: Workshop Activities
     - In the middle of your workspace, there are also two “QUESTION BANKS” with pre-designed survey questions. On the main area you will see the title of your survey and a green button to design a NEW QUESTION.
     <img src="images/act-1/sm-1-05.png" style="margin-left:10px;width:600px;" alt="new question">
 7.	Now that you are more familiar with the SurveyMonkey workspace, let’s start building up our survey about environmental attitudes.
- Click on the green button on the right lower corner that reads “NEW QUESTION” and type in Q1 (question 1) “How concerned are you about air pollution?” and enter some answers as the following and finish this question by saving it: <img src="images/act-1/sm-1-06.png" style="margin-left:10px; float:right; width:300px;" alt="new question">
+ Click on the green button on the right lower corner that reads **NEW QUESTION** and type in Q1 (question 1) “How concerned are you about air pollution?” and enter some answers as the following and finish this question by saving it: <img src="images/act-1/sm-1-06.png" style="margin-left:10px; float:right; width:300px;" alt="new question">
     - _Tip! Make sure that multiple-choice option is enabled in the box on the right side of the question, as you can see there are many types of questions we can have, but today we are focusing on Multiple-choice._
-    - As you type in you will see this on your screen, don’t forget to save it by clicking on the **Save** button at the end of the page.<img src="images/act-1/sm-1-07.png" style="margin-left:10px; width:400px;" alt="screenshot">
+    - As you type in you will see this on your screen, don’t forget to save it by clicking on the **Save** button at the end of the page.<br><img src="images/act-1/sm-1-07.png" style="margin-left:10px; width:400px;" alt="screenshot">
     - Once you save your first survey question, it will look like this:
     <img src="images/act-1/sm-1-08.png" style="margin-left:10px; width:500px;" alt="first question">
     - Note that there are some boxes for you to edit your question and answers, apply logic to it, copy the question or delete it. Feel free to either explore it or to move to the next step.
