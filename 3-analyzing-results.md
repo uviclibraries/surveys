@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 2 - Analyzing Results
-nav_order: 3
+title: 3 - Analyzing Results
+nav_order: 4
 parent: Workshop Activities
 ---
-# Activity 2 - Analyzing Survey Results
+# Activity 3 - Analyzing Survey Results
 
 1.	Now that some people have answered your survey, let’s analyze the results! On the top ribbon click on “ANALYZE RESULTS” You will see unique graphs according to the responses you got. For example:
     <img src="images/act-2/sm-2-01.png" style="width:500px;" alt="create survey"> 
