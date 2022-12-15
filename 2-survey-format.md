@@ -46,7 +46,7 @@ parent: Workshop Activities
 
 7.	Now we are all set up to collect answers, copy the link and share with five people in this workshop, and make sure to also respond the survey link that your colleagues will send to you. Please be aware that anyone with your survey link will be able to answer it. 
 
-    - This step will take 2-3 minutes. Below you can see my link, but you need to copy your own weblink. Feel free to respond it as well.
+    - This step will take 2-3 minutes. **Below you can see my link, but you need to copy your own weblink.** Feel free to respond it as well.
 
     [https://www.surveymonkey.ca/r/ENVIRONMENTSURVEY](https://www.surveymonkey.ca/r/ENVIRONMENTSURVEY){:target="_blank"}
 
