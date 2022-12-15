@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 2 - Survey Format
+title: 2 - Survey Formatting
 nav_order: 3
 parent: Workshop Activities
 ---
-# Activity 2 - Survey Format
+# Activity 2 - Survey Formatting
 
 <img src="images/act-1/sm-1-14.png" style="margin-left:10px; float:right; width:200px;" alt="create survey">
 
