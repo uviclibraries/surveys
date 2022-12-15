@@ -25,4 +25,4 @@ parent: Workshop Activities
 
 ## Well done!
 
-[NEXT STEP: Additional Resources](additional-resources.html){: .btn .btn-blue }
+[NEXT STEP: Workshop Informal Credential](informal-credentials.html){: .btn .btn-blue }
