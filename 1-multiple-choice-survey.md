@@ -28,7 +28,6 @@ parent: Workshop Activities
  Click on the green button on the right lower corner that reads **NEW QUESTION** and type in Q1 (question 1) <code>How concerned are you about air pollution?</code> and enter the answers below and finish this question by saving it: 
  ```
     Q1. How concerned are you about air pollution?
-
     o	Extremely concerned
     o	Very concerned 
     o	Moderately concerned 
@@ -44,13 +43,12 @@ parent: Workshop Activities
 
     <img src="images/act-1/sm-1-09.png" style="margin-left:10px; float:right; width:200px;" alt="create survey">
 
-8.	Let’s move on and add another question by clicking in the green box “NEW QUESTION”
+8.	Let’s move on and add another question by clicking in the green box **NEW QUESTION**
     - Type in question 2 as below:
 
     ```
     Q2. How concerned are you about 
     the extinction of endangered animals?
-
     o	Extremely concerned
     o	Very concerned 
     o	Moderately concerned 
@@ -81,8 +79,8 @@ parent: Workshop Activities
  o	Slightly concerned
  o	Not at all concerned
 
- Q4. Do you believe that society is spending too much time trying to reduce global warming, too little time, 
- or about the right amount of time?
+ Q4. Do you believe that society is spending too much time trying to reduce 
+ global warming, too little time,  or about the right amount of time?
  o	Much too much
  o	Somehow too much
  o	Slightly too much
@@ -115,9 +113,8 @@ parent: Workshop Activities
  o	Not so well
  o	Not at all well
 
- Q8. Which of the following alternative energy sources do you think will be MOST 
- important in the next 10 years?
-
+ Q8. Which of the following alternative energy sources do you think will '
+ be MOST  important in the next 10 years?
  o	Wind
  o	Solar
  o	Nuclear
@@ -127,7 +124,7 @@ parent: Workshop Activities
  Other (Please Specify)
  ```
 
- - _Tip: Note that for the question above you have an open ending option, to add that type it down in the end of the question where it says “ADD AN “OTHER” ANWER OPTION OR COMMENT FIELD” as the following image:_
+ - _Tip: Note that for the question above you have an open ending option, to add that type it down in the end of the question where it says **Add an “Other” Answer Option or Comment Field** as the following image:_
 
  <img src="images/act-1/sm-1-13.png" style="margin-left:10px; width:600px;" alt="create survey">
 
