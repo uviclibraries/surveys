@@ -163,6 +163,4 @@ parent: Workshop Activities
  o	Not at all likely
  ```
 
- <img src="images/act-1/sm-1-14.png" style="margin-left:10px; float:right; width:200px;" alt="create survey">
-
 [NEXT STEP: Analyzing Results](2-survey-format.html){: .btn .btn-blue }
