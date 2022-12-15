@@ -4,7 +4,7 @@ title: 2 - Survey Format
 nav_order: 3
 parent: Workshop Activities
 ---
-# Activity 3 - Survey Format
+# Activity 2 - Survey Format
 
 
 1. Now that our questions are complete we can format our survey. It is a great time to use our creativity and think strategically about having a survey that engages the audience beyond the survey questions. We can add color to the survey, add a logo, a footer, the layout, fronts, and we can also choose different themes for the survey.  Click on the icon “STYLE” on the left column and modify the style of your survey by adding colors, changing the font, adding a image as a logo from your choosing and so on.
