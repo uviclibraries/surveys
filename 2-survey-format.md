@@ -7,9 +7,10 @@ parent: Workshop Activities
 # Activity 2 - Survey Format
 
 <img src="images/act-1/sm-1-14.png" style="margin-left:10px; float:right; width:200px;" alt="create survey">
+
 1. Now that our questions are complete we can format our survey. It is a great time to use our creativity and think strategically about having a survey that engages the audience beyond the survey questions. We can add color to the survey, add a logo, a footer, the layout, fronts, and we can also choose different themes for the survey.  Click on the icon **STYLE** on the left column and modify the style of your survey by adding colors, changing the font, adding a image as a logo from your choosing and so on.
     
-2.	Choosing the FORMAT of your survey. This means that you can set how the questions will show up to the audience: 1) as a classic survey all in a page, 2) One question at time; 3) As a conversation (similar to a digital chat). Let’s try one question at time, this is a great way to get people worry-free about the length of the survey.
+2.	Choosing the FORMAT of your survey. This means that you can set how the questions will show up to the audience: 1) as a classic survey all in a page, 2) One question at time; 3) As a conversation (similar to a digital chat). Let’s try one question at time, this is a great way to get people worry-free about the length of the survey.</br>
     <img src="images/act-1/sm-1-15.png" style="margin-left:10px; width:200px;" alt="create survey">
     - Next to the option “ONE QUESTION AT A TIME” you can click on the arrow > and customize the button to pass from one question to another. You can, for instance, choose “OK”, “NEXT QUESTION”, “NEXT”, etc. 
 
