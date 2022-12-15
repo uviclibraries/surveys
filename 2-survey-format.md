@@ -32,15 +32,15 @@ parent: Workshop Activities
 
     
 
-5.	The following image will pop up, and you have many options to spread your survey out. Take a moment on the option, and once you. Have read them out, choose “SHARE A SURVEY LINK”.
+5.	The following image will pop up, and you have many options to spread your survey out. Take a moment on the option, and once you. Have read them out, choose **Share a survey link**.
     <img src="images/act-1/sm-1-23.png" style="float:right; width:200px;" alt="create survey"> 
     <img src="images/act-1/sm-1-22.png" style="width:400px;" alt="create survey"> 
 
-6.	A page with a link should have pop “WE LINK 1”, you can copy your survey link and spread it out! Alternatively, you can also customize the link to make it reflect your survey/project.
+6.	A page with a link should be titled, “Web Link 1”. Copy your survey link and if this was a research project you'd send that link to invite people to participate in you survey! 
 
     <img src="images/act-1/sm-1-24.png" style=" width:400px;" alt="create survey"> 
     
-    - To customize the link, simply click on the button “CUSTOMIZE” on the right side of your web link and change the name after the /. Then click on **SAVE**. I for example, chose to call my survey ENVIRONMENTSURVEY.
+    - To customize the survey link to better reflect your survey or research, simply click on the  **Customize** button on the right side of your web link and change the name after the /. Then click on **SAVE**. I for example, chose to call my survey ENVIRONMENTSURVEY.
 
     <img src="images/act-1/sm-1-25.png" style="width:400px;" alt="create survey"> 
 
