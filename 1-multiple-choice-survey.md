@@ -15,7 +15,7 @@ parent: Workshop Activities
 4.	 The box below will pop up, name your survey as <code>ENVIRONMENTAL ATTITUDE SURVEY</code>, for category you can choose **OTHER** and click on **USE MY OWN CONTACTS**.
     <img src="images/act-1/sm-1-03.png" style="margin-left:10px;width:600px;" alt="name survey">
 
-5.	Click on **CREATE A SURVEY**:
+5.	Click on **CREATE A SURVEY**.
     <img src="images/act-1/sm-1-04.png" style="margin-left:10px;float:right; width:150px;" alt="create a survey button">
 
 6.	Now you have created the workspace for your survey. Please take a moment to visualize and explore your SurveyMonkey workspace. 
@@ -94,8 +94,8 @@ parent: Workshop Activities
  or about as important as improving the economy?
  o	Much more important
  o	Somewhat more important
- o   About as important
- o   Less important
+ o  About as important
+ o  Less important
 
  Q6. When people get involved in trying to solve environmental problems, 
  how often do you think they make things better?
@@ -130,7 +130,7 @@ parent: Workshop Activities
 
  ```
  Q9. Should the universities create more projects or less projects to support 
- alternative energy??
+ alternative energy?
  o	Much more projects
  o	Somewhat more projects
  o	Slightly more projects
