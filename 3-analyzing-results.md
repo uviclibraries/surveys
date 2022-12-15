@@ -23,6 +23,6 @@ parent: Workshop Activities
 
 4. The file with the responses have now been downloaded to your computer and you are ready to use your survey results!
 
-# Well done! You have now completed the Workshop Activities!
+## Well done!
 
 [NEXT STEP: Additional Resources](additional-resources.html){: .btn .btn-blue }
