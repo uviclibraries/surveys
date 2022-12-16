@@ -94,8 +94,8 @@ parent: Workshop Activities
  or about as important as improving the economy?
  o	Much more important
  o	Somewhat more important
- o  About as important
- o  Less important
+ o  About as important 
+ o  Less important 
 
  Q6. When people get involved in trying to solve environmental problems, 
  how often do you think they make things better?
