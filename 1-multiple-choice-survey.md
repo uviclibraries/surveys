@@ -10,7 +10,7 @@ parent: Workshop Activities
     - Alternatively, you can use the [free version of SurveyMonkey](https://www.surveymonkey.com/){:target="_blank"} by using an email address. However, the free version may have some limitations whereas the UVic subscription is a complete one.
 2. Once you are logged in you will see the following page and on the top right a box that reads **CREATE SURVEY**.
     <img src="images/act-1/sm-1-01.png" style="margin-left:10px;width:600px;" alt="create survey">
-3.	Go to the left pane and click on ‘START FROM SCRATCH” as in the picture below:
+3.	Go to the left pane and click on **START FROM SCRATCH** as in the picture below:
     <img src="images/act-1/sm-1-02.png" style="margin-left:10px;width:200px;" alt="start from scratch">
 4.	 The box below will pop up, name your survey as <code>ENVIRONMENTAL ATTITUDE SURVEY</code>, for category you can choose **OTHER** and click on **USE MY OWN CONTACTS**.
     <img src="images/act-1/sm-1-03.png" style="margin-left:10px;width:600px;" alt="name survey">
