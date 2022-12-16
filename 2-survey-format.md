@@ -10,7 +10,8 @@ parent: Workshop Activities
 
 1. Now that our questions are complete we can format our survey. It is a great time to use our creativity and think strategically about having a survey that engages the audience beyond the survey questions. We can add color to the survey, add a logo, a footer, the layout, fronts, and we can also choose different themes for the survey.  Click on the icon **STYLE** on the left column and modify the style of your survey by adding colors, changing the font, adding a image as a logo from your choosing and so on.
     
-2.	Choosing the FORMAT of your survey. This means that you can set how the questions will show up to the audience: 1) as a classic survey all in a page, 2) One question at time; 3) As a conversation (similar to a digital chat). Select **One Question at a Time**, this is a great way to get people worry-free about the length of the survey.</br>
+2.	Choosing the FORMAT of your survey. This means that you can set how the questions will show up to the audience: 1) as a classic survey all in a page, 2) One question at time; 3) As a conversation (similar to a digital chat). Select **One Question at a Time**, this is a great way to get people worry-free about the length of the survey.
+
     <img src="images/act-1/sm-1-15.png" style="margin-left:10px; width:200px;" alt="create survey">
     - Next to the option “ONE QUESTION AT A TIME” you can click on the **arrow >** and customize the button to pass from one question to another. You can, for instance, replace “OK” by typing in, “NEXT QUESTION”, “NEXT”, etc. 
 
@@ -30,13 +31,12 @@ parent: Workshop Activities
 
     <img src="images/act-1/sm-1-21.png" style="width:400px;" alt="create survey"> 
 
-    
 
-5.	The following image will pop up, and you have many options to spread your survey out. Take a moment on the option, and once you. Have read them out, choose **Share a survey link**.
+5.	The following image will pop up, and you have many options to spread your survey out. Take a moment to choose an option, and once you have read them out, choose **Share a survey link**.
     <img src="images/act-1/sm-1-23.png" style="float:right; width:200px;" alt="create survey"> 
     <img src="images/act-1/sm-1-22.png" style="width:400px;" alt="create survey"> 
 
-6.	A page with a link should be titled, “Web Link 1”. Copy your survey link and if this was a research project you'd send that link to invite people to participate in you survey! 
+6.	A page with a link should be titled, “Web Link 1”. Copy your survey link and if this was a research project you'd send that link to invite people to participate in your survey! 
 
     <img src="images/act-1/sm-1-24.png" style=" width:400px;" alt="create survey"> 
     

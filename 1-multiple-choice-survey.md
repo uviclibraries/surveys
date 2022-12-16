@@ -26,7 +26,7 @@ parent: Workshop Activities
     <img src="images/act-1/sm-1-05.png" style="margin-left:10px;width:600px;" alt="new question">
 7.	Now that you are more familiar with the SurveyMonkey workspace, let’s start building up our survey about environmental attitudes.
  Click on the green button on the right lower corner that reads **NEW QUESTION** and type in Q1 (question 1) <code>How concerned are you about air pollution?</code> and enter the answers below and finish this question by saving it: 
- ```
+    ```
     Q1. How concerned are you about air pollution?
     o	Extremely concerned
     o	Very concerned 
@@ -34,7 +34,9 @@ parent: Workshop Activities
     o	Slightly concerned
     o	Not at all concerned
     ```
- <img src="images/act-1/sm-1-06.png" style="margin-left:10px; float:right; width:300px;" alt="new question">
+    
+    <img src="images/act-1/sm-1-06.png" style="margin-left:10px; float:right; width:300px;" alt="new question">
+
     - _Tip! Make sure that multiple-choice option is enabled in the box on the right side of the question, as you can see there are many types of questions we can have, but today we are focusing on Multiple-choice._
     - As you type in you will see this on your screen, don’t forget to save it by clicking on the **SAVE** button at the end of the page.<br><img src="images/act-1/sm-1-07.png" style="margin-left:10px; width:400px;" alt="screenshot">
     - Once you save your first survey question, it will look like this:
@@ -124,7 +126,7 @@ parent: Workshop Activities
  Other (Please Specify)
  ```
 
- - _Tip: Note that for the question above you have an open ending option, to add that type it down in the end of the question where it says **Add an “Other” Answer Option or Comment Field** as the following image:
+ - _Tip: Note that for the question above you have an open ending option, to add that type it down in the end of the question where it says **Add an “Other” Answer Option or Comment Field**:_
 
  <img src="images/act-1/sm-1-13.png" style="margin-left:10px; width:600px;" alt="create survey">
 
@@ -163,4 +165,4 @@ parent: Workshop Activities
  o	Not at all likely
  ```
 
-[NEXT STEP: Analyzing Results](2-survey-format.html){: .btn .btn-blue }
+[NEXT STEP: Survey Formatting](2-survey-format.html){: .btn .btn-blue }

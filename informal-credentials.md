@@ -3,9 +3,7 @@ layout: default
 title: Earn a Workshop Badge
 nav_order: 9
 ---
- <img src="images/badgrlogo.png" style="float:right;width:180px;"> 
-
- <!--- https://api.badgr.io/public/badges/VniblBxHTduaHgNkPtAVfQ/image -->
+ <img src="https://api.badgr.io/public/badges/1XG06P_6SZmm4M6UC3wGiQ/image" style="float:right;width:180px;"> 
 
 # Informal Credentials or Digital Badges
 
