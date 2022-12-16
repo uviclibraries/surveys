@@ -7,7 +7,7 @@ parent: Workshop Activities
 # Activity 1 - Creating Basic Multiple-Choice Surveys
 
 1.	For this activity, make sure to login in on SurveyMonkey using your UVic credentials using the link [here](https://www.uvic.ca/systems/support/web/surveymonkey/index.php){:target="_blank"}
-    - Alternatively, you can use the free version of SurveyMonkey by using an email and creating a password. However, the free version may have some limitations whereas the UVic subscription is a complete one.
+    - Alternatively, you can use the [free version of SurveyMonkey](https://www.surveymonkey.com/){:target="_blank"} by using an email address. However, the free version may have some limitations whereas the UVic subscription is a complete one.
 2. Once you are logged in you will see the following page and on the top right a box that reads **CREATE SURVEY**.
     <img src="images/act-1/sm-1-01.png" style="margin-left:10px;width:600px;" alt="create survey">
 3.	Go to the left pane and click on ‘START FROM SCRATCH” as in the picture below:
