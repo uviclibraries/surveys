@@ -70,9 +70,10 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
     
     <img src="images/act-1/sm-1-11.png" style="margin-left:10px; width:400px;" alt="create survey">
 
-    <img src="images/act-1/sm-1-12.png" style="margin-left:10px; float:right; width:300px;" alt="create survey">
+9. Proceed and click the **TRIANGLE** next to the button **+NEW QUESTION** 
 
-9. Proceed and click the **TRIANGLE** next to the button **+NEXT QUESTION** 
+    <img src="images/act-1/sm-1-12.png" style="margin-left:10px; width:300px;" alt="create survey">
+
     - you can combine different type of questions within one survey. For example, you can have a survey with multiple-choice questions, image choice, comment box, among others! Today we will focus on Multiple-choices only, but you are welcome to explore any options you may want.
 
     <button onclick="toggle('gif2')">Show/Hide Animation</button>
