@@ -7,9 +7,8 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 # Activity 3 - Analyzing Survey Results
 
-1.	Now that some people have answered your survey, let’s analyze the results! On the top ribbon click on **ANALYZE RESULTS** and you will see unique graphs according to the responses you got. For example:
-
-   <img src="images/act-2/sm-2-01.png" style="width:500px;" alt="create survey"> 
+1.	Now that some people have answered your survey, let’s analyze the results! On the top ribbon click on **ANALYZE RESULTS** and you will see unique graphs according to the responses you got. For example: <br>
+    <img src="images/act-2/sm-2-01.png" style="width:500px;" alt="create survey"> 
    
 2.	There are several ways to explore the results, in this introductory workshop we will save all the graphs to our computer and they will be ready to be used on your presentations, papers, reports, etc. 
 

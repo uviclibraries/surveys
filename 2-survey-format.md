@@ -24,11 +24,9 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
      <img src="images/gifs/sm-2-01.gif">
      </div>
 
-3.	Now let’s go to the top ribbon and explore the option **PREVIEW & SCORE**. In this section we can have a view of how our survey will look like on different types of screens using **DEVICE VIEW**.  <img src="images/act-1/sm-1-18.png" style="margin-left:20px; width:150px;" alt="device view"> 
+3.	Now let’s go to the top ribbon and explore the option **PREVIEW & SCORE**. In this section we can have a view of how our survey will look like on different types of screens using **DEVICE VIEW**.  <img src="images/act-1/sm-1-18.png" style="margin-left:20px; border: 5px solid #555; width:150px;" alt="device view"> 
 
     <img src="images/act-1/sm-1-17.png" style="margin-left:10px; width:500px;" alt="create survey"> 
-    
-  
 
     - SurveyMonkey automatically shows you the estimated completion rate of the process of your survey so far, the estimated time for someone to complete it, and any recommendations that the system may have. 
 

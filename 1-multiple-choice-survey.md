@@ -81,7 +81,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
     <img src="images/gifs/sm-1-02.gif">
     </div>
 
-10.	Now let’s complete our multiple-choice question survey by adding more questions to it. You can either follow the questions bellow or you can write your own question. Feel free to also explore other types of questions you may be interested in this hands-on part!
+10.	Now let’s complete our multiple-choice question survey by adding more questions to it. You can either copy and paste the questions below or you can write your own questions. Feel free to also explore other types of questions beyond multiple-choice.
 
  ```
  Q3. The term global warming is often used to refer to the idea that the world’s 
