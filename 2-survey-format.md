@@ -3,6 +3,7 @@ layout: default
 title: 2 - Survey Formatting
 nav_order: 3
 parent: Workshop Activities
+customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 # Activity 2 - Survey Formatting
 
@@ -13,19 +14,27 @@ parent: Workshop Activities
 2.	Choosing the FORMAT of your survey. This means that you can set how the questions will show up to the audience: 1) as a classic survey all in a page, 2) One question at time; 3) As a conversation (similar to a digital chat). Select **One Question at a Time**, this is a great way to get people worry-free about the length of the survey.
 
     <img src="images/act-1/sm-1-15.png" style="margin-left:10px; width:200px;" alt="create survey">
+
     - Next to the option “ONE QUESTION AT A TIME” you can click on the **arrow >** and customize the button to pass from one question to another. You can, for instance, replace “OK” by typing in, “NEXT QUESTION”, “NEXT”, etc. 
 
-    <img src="images/act-1/sm-1-16.png" style="margin-left:10px; width:200px;" alt="create survey">
+     <img src="images/act-1/sm-1-16.png" style="margin-left:10px; width:200px;" alt="create survey">
+
+     <button onclick="toggle('gif1')">Show/Hide Animation</button>
+     <div id="gif1">
+     <img src="images/gifs/sm-2-01.gif">
+     </div>
+
+3.	Now let’s go to the top ribbon and explore the option **PREVIEW & SCORE**. In this section we can have a view of how our survey will look like on different types of screens using **DEVICE VIEW**.<img src="images/act-1/sm-1-17.png" style="margin-left:10px; float:right; width:300px;" alt="create survey"> 
     
-     <img src="images/act-1/sm-1-17.png" style="margin-left:10px; float:right; width:300px;" alt="create survey">
-3.	Now let’s go to the top ribbon and explore the option **PREVIEW & SCORE**. In this section we can have a view of how our survey will look like on different types of screens using **DEVICE VIEW**. <img src="images/act-1/sm-1-18.png" style="width:150px;" alt="create survey"> 
+    <img src="images/act-1/sm-1-18.png" style="margin-left:20px; width:150px;" alt="device view"> 
+
     - SurveyMonkey automatically shows you the estimated completion rate of the process of your survey so far, the estimated time for someone to complete it, and any recommendations that the system may have. 
 
-    <img src="images/act-1/sm-1-19.png" style="float:right; width:200px;" alt="create survey"> 
+    <img src="images/act-1/sm-1-19.png" style="float:right; width:200px;" alt="genius"> 
     
-    <img src="images/act-1/sm-1-20.png" style="float:right; width:150px;" alt="create survey"> 
+    <img src="images/act-1/sm-1-20.png" style="margin-left:20px; width:150px;" alt="add collaborators"> 
 
-    - **_TIP: THIS IS ALSO A GREAT MOMENT TO DOUBLE CHECK THE SURVEY TO MAKE SURE IT IS AS GOOD AS YOU WOULD LIKE._**
+    - **_TIP: This is also a great moment to double check the survey to make sure it is as good as you would like._**
 
 4.	On the top right of the page click **NEXT** and you can see some options to collect your response. Next choose to **Send surveys your way**.
 
@@ -43,6 +52,11 @@ parent: Workshop Activities
     - To customize the survey link to better reflect your survey or research, simply click on the  **Customize** button on the right side of your web link and change the name after the /. Then click on **SAVE**. I for example, chose to call my survey ENVIRONMENTSURVEY.
 
     <img src="images/act-1/sm-1-25.png" style="width:400px;" alt="create survey"> 
+    
+     <button onclick="toggle('gif2')">Show/Hide Animation</button>
+     <div id="gif2">
+     <img src="images/gifs/sm-2-02.gif">
+     </div>
 
 7.	Now we are all set up to collect answers, copy the link and share with five people in this workshop, and make sure to also respond the survey link that your colleagues will send to you. Please be aware that anyone with your survey link will be able to answer it. 
 
@@ -50,5 +64,16 @@ parent: Workshop Activities
 
     [https://www.surveymonkey.ca/r/ENVIRONMENTSURVEY](https://www.surveymonkey.ca/r/ENVIRONMENTSURVEY){:target="_blank"}
 
+ <script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
 
 [NEXT STEP: Analyzing Results](3-analyzing-results.html){: .btn .btn-blue }

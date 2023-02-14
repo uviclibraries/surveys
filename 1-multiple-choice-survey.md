@@ -3,6 +3,7 @@ layout: default
 title: 1 - Creating Basic Multiple Choice Surveys
 nav_order: 2
 parent: Workshop Activities
+customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 # Activity 1 - Creating Basic Multiple-Choice Surveys
 
@@ -17,6 +18,11 @@ parent: Workshop Activities
 
 5.	Click on **CREATE A SURVEY**.
     <img src="images/act-1/sm-1-04.png" style="margin-left:10px;float:right; width:150px;" alt="create a survey button">
+
+    <button onclick="toggle('gif1')">Show/Hide Animation</button>
+    <div id="gif1">
+    <img src="images/gifs/sm-1-01.gif">
+    </div>
 
 6.	Now you have created the workspace for your survey. Please take a moment to visualize and explore your SurveyMonkey workspace. 
 
@@ -68,6 +74,11 @@ parent: Workshop Activities
 
 9. Proceed and click the **TRIANGLE** next to the button **+NEXT QUESTION** 
     - you can combine different type of questions within one survey. For example, you can have a survey with multiple-choice questions, image choice, comment box, among others! Today we will focus on Multiple-choices only, but you are welcome to explore any options you may want.
+
+    <button onclick="toggle('gif2')">Show/Hide Animation</button>
+    <div id="gif2">
+    <img src="images/gifs/sm-1-02.gif">
+    </div>
 
 10.	Now let’s complete our multiple-choice question survey by adding more questions to it. You can either follow the questions bellow or you can write your own question. Feel free to also explore other types of questions you may be interested in this hands-on part!
 
@@ -164,5 +175,17 @@ parent: Workshop Activities
  o	Slightly likely
  o	Not at all likely
  ```
+
+ <script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
 
 [NEXT STEP: Survey Formatting](2-survey-format.html){: .btn .btn-blue }
