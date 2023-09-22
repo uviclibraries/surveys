@@ -16,14 +16,13 @@ Watch this [Introduction to Advanced Branching](https://www.youtube.com/watch?v=
 1. Start by creating a survey using some questions with Checkboxes.
 2. Select **Page Logic** at the top of the page on the right hand side, then select **Advanced branching logic** from the dropdown menu.<br>
 <img src="images/branching.png">
-3. Click **New Rule** <br>
+3. Click **New Rule** and select the question you wish to add a rule to. <br>
 <img src="images/new-rule.png">
 4. Add Conditions by modifying **criteria** and implementing an **action** and **error message**.
 <img src="images/condition.png">
 
 5. Repeat for any additional questions you wish to add advanced branching to.
 
-- First select the question you wish to include an advanced branch
 [Optional: Survey Creation Reference Sheet](reference-sheet.html){: .btn .btn-blue }<br> or 
 [NEXT STEP: Workshop Informal Credential](informal-credentials.html){: .btn .btn-blue }
 
