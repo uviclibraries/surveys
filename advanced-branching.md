@@ -7,4 +7,4 @@ parent: Bonus Activities
 
 # Optional Activity: Advanced Branching
 
-[Optional: Surveu Creation Reference Sheet](reference-sheet.html){: .btn .btn-blue }<br>
+[Optional: Survey Creation Reference Sheet](reference-sheet.html){: .btn .btn-blue }<br>
