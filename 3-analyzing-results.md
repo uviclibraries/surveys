@@ -42,4 +42,5 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
     }
 </script>
 
+[Optional: Advanced Branching](advanced-branching.html){: .btn .btn-blue }<br> or
 [NEXT STEP: Workshop Informal Credential](informal-credentials.html){: .btn .btn-blue }
