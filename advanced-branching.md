@@ -16,7 +16,7 @@ Watch this [Introduction to Advanced Branching](https://www.youtube.com/watch?v=
 1. Start by creating a survey using some questions with Checkboxes.
 2. Select **Page Logic** at the top of the page on the right hand side, then select **Advanced branching logic** from the dropdown menu.<br>
 <img src="images/branching.png">
-3. Click **+ New Rule**<br>
+3. Click **New Rule** <br>
 <img src="images/new-rule.png">
 4. Add Conditions by modifying **criteria** and implementing an **action** and **error message**.
 <img src="images/condition.png">
