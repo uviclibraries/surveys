@@ -21,6 +21,8 @@ Watch this [Introduction to Advanced Branching](https://www.youtube.com/watch?v=
 4. Add Conditions by modifying **criteria** and implementing an **action** and **error message**.
 <img src="images/condition.png">
 
+5. Repeat for any additional questions you wish to add advanced branching to.
+
 - First select the question you wish to include an advanced branch
 [Optional: Survey Creation Reference Sheet](reference-sheet.html){: .btn .btn-blue }<br> or 
 [NEXT STEP: Workshop Informal Credential](informal-credentials.html){: .btn .btn-blue }
