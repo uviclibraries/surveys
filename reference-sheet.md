@@ -6,3 +6,6 @@ parent: Bonus Activities
 ---
 
 # Optional: Reference Sheet: Best practices  
+
+
+[NEXT STEP: Workshop Informal Credential](informal-credentials.html){: .btn .btn-blue }
