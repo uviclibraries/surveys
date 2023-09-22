@@ -12,8 +12,6 @@ Watch this [Introduction to Advanced Branching](https://www.youtube.com/watch?v=
 
 Visit [How to use Advanced Branching](https://help.smapply.io/hc/en-us/articles/115001421914-How-to-use-Advanced-Branching-Logic-to-Dynamically-Change-your-Form) for more information.
 
-[NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }
-
 [Optional: Survey Creation Reference Sheet](reference-sheet.html){: .btn .btn-blue }<br> or 
 [NEXT STEP: Workshop Informal Credential](informal-credentials.html){: .btn .btn-blue }
 
