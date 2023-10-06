@@ -24,7 +24,7 @@ Resources published by [Louisiana State University](https://grok.lsu.edu/article
 -	Avoid leading and loaded questions (e.g., “Do you agree that…).
 -	Avoid using indefinite qualifiers (e.g., only, just, merely, many, few, or seldom).
 **Question format**
--	A 5-point [Likert scale](https://survicate.com/blog/matrix-questions/) is recommended. The 'distance' between the values should be as 'equal' as possible. For example, responses to a question such as “How helpful was the content presented at the workshop?” could comprise 1. Extremely helpful 2. Very helpful 3. Somewhat helpful 4. Not so helpful 5. not at all helpful” 
+-	A 5-point [Likert scale](https://www.surveymonkey.com/mp/likert-scale/) is recommended. The 'distance' between the values should be as 'equal' as possible. For example, responses to a question such as “How helpful was the content presented at the workshop?” could comprise 1. Extremely helpful 2. Very helpful 3. Somewhat helpful 4. Not so helpful 5. not at all helpful” 
 -	Use matrix questions at your discretion. These questions comprise a series of questions with the same set of answers on the same page. While this can be more efficient for respondents, it can potentially cause confusion.
 -	For “Check all that apply” and “Select up to three responses” questions, keep the list from getting too long (e.g., a maximum of 10 answers). If there is a “does not apply” answer, this should be listed first.
 -	Avoid forced-choice questions. Use options such as “don’t know” and “not applicable” sparingly, otherwise it gives respondents an easy way to skip past a question.
