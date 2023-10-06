@@ -10,9 +10,12 @@ parent: Bonus Activities
 Advanced Branching allows you to customize survey paths based on pre-defined criteria. Depending on how respondents answer questions, they will take different routes through your survey. You can show or hide questions, navigate to different questions in the survey, or end the survey. This will help to ensure that only relevant data is gathered.
 
 Common applications include:
--	Terminating a form to screen participants who are not eligible
+-	Terminating a form to screen participants who are not eligible.
+-	  Example: If a survey is available only to UVic students, a "No" response to the question, "Are you a student at the University of Victoria?" would close the survey.
 -	Showing a follow-up question based on a response to a previous question
+-	  Example: Respondents are asked whether they have used a service. If they have answered "yes," they are taken to a follow-up question asking them to rate their satisfaction for that particular service.
 -	Displaying a message or warning
+-	  Example: If a participant is ineligible for a survey based on a response, they will be directed to a message explaining why they are ineligible.
 
 Watch this [Introduction to Advanced Branching](https://www.youtube.com/watch?v=qOtHfjvqyho)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qOtHfjvqyho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
