@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 2- Reference Sheet
+title: 2- Best practices Reference Sheet
 nav_order: 2
 parent: Bonus Activities
 ---
 
-# Optional: Reference Sheet: Best practices  
+# Best practices Reference Sheet  
 
 To learn more visit [best practices for survey creation](https://www.surveymonkey.com/mp/survey-guidelines/) 
 
