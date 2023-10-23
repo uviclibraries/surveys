@@ -86,7 +86,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
  ```
  Q3. The term global warming is often used to refer to the idea that the world’s 
  average temperature may be about 5 degrees Fahrenheit higher in 75 years 
- than it is now. Do you think global warming is good or bad?
+ than it is now. Knowing this definition how concerned are you about global warming?
  o	Extremely concerned
  o	Very concerned 
  o	Moderately concerned 
