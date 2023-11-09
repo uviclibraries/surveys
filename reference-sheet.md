@@ -5,7 +5,7 @@ nav_order: 2
 parent: Bonus Activities
 ---
 
-# Best practices Reference Sheet  
+# Survey Best Practices Tips  
 
 To learn more visit [best practices for survey creation](https://www.surveymonkey.com/mp/survey-guidelines/) 
 
