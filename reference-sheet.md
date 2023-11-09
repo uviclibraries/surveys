@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2- Best practices Reference Sheet
+title: 2- Survey Best Practices Tips
 nav_order: 2
 parent: Bonus Activities
 ---
