@@ -46,4 +46,4 @@ Important tip: Images larger than 600px may be cut off. Make sure to view the pr
 1. Select **Build** and from the drop down select **Image A/B Test**, you can similarly do this for A/B Text as well
 2. Then add your images by clicking **uploading file**.
 
-[Optional: Survey Creation Reference Sheet](reference-sheet.html){: .btn .btn-blue 
+[Optional: Adding Audio](audio.html){: .btn .btn-blue 
