@@ -12,4 +12,7 @@ parent: Bonus Activities
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PGNwu29_Xqo?si=IrN0WbM69kbFeeXu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+# Adding Videos 
+- You can also add video's to your survey. Please visit [here for steps](https://help.surveymonkey.com/en/surveymonkey/create/videos/#:~:text=You%20can%20add%20videos%20hosted,any%20questions%20in%20the%20survey){:target="_blank"}
+
 [Optional: Survey Creation Reference Sheet](reference-sheet.html){: .btn .btn-blue 
