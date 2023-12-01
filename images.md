@@ -7,7 +7,7 @@ parent: Bonus Activities
 
 # Optional Activity: Adding Images
 
-[Adding Images on Survey Monkey](https://help.surveymonkey.com/en/surveymonkey/create/adding-images/)
+[Adding Images using Survey Monkey](https://help.surveymonkey.com/en/surveymonkey/create/adding-images/)
 
 There are multiple different uses for images in Survey Monkey:
 - You can add independent images that are seperate from survey questions (A)
