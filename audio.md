@@ -6,3 +6,7 @@ parent: Bonus Activities
 ---
 
 # Optional Activity: Adding Audio
+
+https://www.youtube.com/watch?v=PGNwu29_Xqo&t=7s
+
+[Optional: Survey Creation Reference Sheet](reference-sheet.html){: .btn .btn-blue 
