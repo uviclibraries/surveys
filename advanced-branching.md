@@ -34,7 +34,7 @@ Watch this [Introduction to Advanced Branching](https://www.youtube.com/watch?v=
 
 5. Repeat for any additional questions you wish to add advanced branching to.
 
-[Optional: Survey Creation Reference Sheet](reference-sheet.html){: .btn .btn-blue }<br> or 
+[Optional: Adding pictures](pictures.html){: .btn .btn-blue }<br> or 
 [NEXT STEP: Workshop Informal Credential](informal-credentials.html){: .btn .btn-blue }
 
 
