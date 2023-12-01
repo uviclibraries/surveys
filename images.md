@@ -6,15 +6,18 @@ parent: Bonus Activities
 ---
 
 # Optional Activity: Adding Images
+**Royalty-Free Photos you can use in your Survey:**
+- [Unsplash](https://unsplash.com/){:target="_blank"}
+- [Pexels](https://www.pexels.com/){:target="_blank"}
+- [Pixabay](https://pixabay.com/){:target="_blank"}
 
-[Adding Images using Survey Monkey](https://help.surveymonkey.com/en/surveymonkey/create/adding-images/)
+[Adding Images using Survey Monkey](https://help.surveymonkey.com/en/surveymonkey/create/adding-images/){:target="_blank"}
 
 There are multiple different uses for images in Survey Monkey:
 - You can add independent images that are seperate from survey questions (A)
 - You can add Images onto your multiple choice or checkbox style questions (B)
 - You can make a custom theme and add a background image (C)
 - You can create Image A/B Tests (D)
-
 
 ## Adding Independent Images: Option A
 1. 1. Select **Build** and under the drop down select **image**<br> <img src="images/image.png"><br>
@@ -38,5 +41,9 @@ There are multiple different uses for images in Survey Monkey:
 <img src="images/background.png">
 
 Important tip: Images larger than 600px may be cut off. Make sure to view the preview of all devices in Survey Monkey
+
+## Creating Image A/B Tests:
+1. Select **Build** and from the drop down select **Image A/B Test**, you can similarly do this for A/B Text as well
+2. Then add your images by clicking **uploading file**.
 
 [Optional: Survey Creation Reference Sheet](reference-sheet.html){: .btn .btn-blue 
