@@ -6,6 +6,7 @@ parent: Bonus Activities
 ---
 
 # Optional Activity: Adding Audio
+- You can add audio clips to your SurveyMonkey questions and answers by uploading your audio clips to your free [SoundCloud](https://soundcloud.com/){:target="_blank"} account, and then embedding SoundCloud widgets into your Survey.
 
 - Watch this [Introduction to Adding Audio in SurveyMonkey](https://www.youtube.com/watch?v=PGNwu29_Xqo&t=7s){:target="_blank"}
 
