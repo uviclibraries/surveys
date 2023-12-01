@@ -31,4 +31,6 @@ There are multiple different uses for images in Survey Monkey
 6. You can modify the background opacity as well once you have added your image by moving the toggle side to side. 
 <img src="images/background.png">
 
+Important tip: Images larger than 600px may be cut off. Make sure to view the preview of all devices in Survey Monkey
+
 [Optional: Survey Creation Reference Sheet](reference-sheet.html){: .btn .btn-blue 
