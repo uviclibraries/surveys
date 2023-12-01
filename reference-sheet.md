@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 2- Survey Best Practices Tips
-nav_order: 2
+title: 3- Survey Best Practices Tips
+nav_order: 3
 parent: Bonus Activities
 ---
 
