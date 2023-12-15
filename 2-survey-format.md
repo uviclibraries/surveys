@@ -34,12 +34,9 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
     - **_TIP: This is also a great moment to double check the survey to make sure it is as good as you would like._**
 
-4.	On the top right of the page click **NEXT** and you can see some options to collect your response. Next choose to **Send surveys your way**.
+4.	On the top right of the page click **Collect Responses**..
 
-    <img src="images/act-1/sm-1-21.png" style="width:400px;" alt="create survey"> 
-
-
-5.	The following image will pop up, and you have many options to spread your survey out. Take a moment to choose an option, and once you have read them out, choose **Share a survey link**.
+5.	The following image will pop up, and you have many options to spread your survey out. Take a moment to choose an option, and once you have read them out, choose **Share a survey link**. 
     <img src="images/act-1/sm-1-23.png" style="float:right; width:200px;" alt="create survey"> 
     <img src="images/act-1/sm-1-22.png" style="width:400px;" alt="create survey"> 
 
