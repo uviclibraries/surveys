@@ -13,7 +13,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
     <img src="images/act-1/sm-1-01.png" style="margin-left:10px;width:600px;" alt="create survey">
 3.	Go to the left pane and click on **START FROM SCRATCH** as in the picture below:
     <img src="images/act-1/sm-1-02.png" style="margin-left:10px;width:200px;" alt="start from scratch">
-4.	 The box below will pop up, name your survey as <code>ENVIRONMENTAL ATTITUDE SURVEY</code>, for category you can choose **OTHER** and click on **USE MY OWN CONTACTS**.
+4.	 The box below will pop up, name your survey as <code>ENVIRONMENTAL ATTITUDE SURVEY</code>, for category you can choose **OTHER**.
     <img src="images/other.png" style="margin-left:10px;width:600px;" alt="name survey">
 
 5.	Click on **CREATE A SURVEY**.
