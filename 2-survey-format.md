@@ -36,11 +36,12 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 4.	On the top right of the page click **Collect Responses**..
 
-5.	The following image will pop up, and you have many options to spread your survey out. Take a moment to choose an option, and once you have read them out, choose **Share a survey link**. 
+5.	The following image will pop up, and you have many options to spread your survey out. Take a moment to choose an option, and once you have read them out, choose **Share a survey link**.
     <img src="images/act-1/sm-1-23.png" style="float:right; width:200px;" alt="create survey"> 
     <img src="images/act-1/sm-1-22.png" style="width:400px;" alt="create survey"> 
+More ways to send are visible at the bottom of the page (note the photo here looks a bit different as the surface has been updated). 
 
-6.	A page with a link should be titled, “Web Link 1”. Copy your survey link and if this was a research project you'd send that link to invite people to participate in your survey! 
+7.	A page with a link should be titled, “Web Link 1”. Copy your survey link and if this was a research project you'd send that link to invite people to participate in your survey! 
 
     <img src="images/act-1/sm-1-24.png" style=" width:400px;" alt="create survey"> 
     
@@ -53,7 +54,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
      <img src="images/gifs/sm-2-02.gif">
      </div>
 
-7.	Now we are all set up to collect answers, copy the link and share with five people in this workshop, and make sure to also respond the survey link that your colleagues will send to you. Please be aware that anyone with your survey link will be able to answer it. 
+8.	Now we are all set up to collect answers, copy the link and share with five people in this workshop, and make sure to also respond the survey link that your colleagues will send to you. Please be aware that anyone with your survey link will be able to answer it. 
 
     - This step will take 2-3 minutes. **Below you can see my link, but you need to copy your own weblink.** Feel free to respond it as well.
 
