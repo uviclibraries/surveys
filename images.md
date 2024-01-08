@@ -2,7 +2,7 @@
 layout: default
 title: 2- Adding Images
 nav_order: 2
-parent: Bonus Activities
+parent: Intermediate Activities
 ---
 
 # Optional Activity: Adding Images
