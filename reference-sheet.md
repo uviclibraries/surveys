@@ -11,7 +11,7 @@ To learn more visit [best practices for survey creation](https://www.surveymonke
 
 ## Some useful videos outlining useful survey design tips
 - Visit [Designing a Survey](https://www.youtube.com/watch?v=mdVWbuffdNY) (5 minute video)
-- Visit [Creating Effective Surveys](https://www.youtube.com/watch?v=6H3AI0M6ZOk) (22 minute video)
+- **OPTIONAL**: Visit [Creating Effective Surveys](https://www.youtube.com/watch?v=6H3AI0M6ZOk) (22 minute video)
 
 According to Institute of Education Science video, the General Best Practices are the following
 <img src="images/best-practices.png">
