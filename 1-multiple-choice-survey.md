@@ -2,7 +2,7 @@
 layout: default
 title: 1 - Creating Basic Multiple Choice Surveys
 nav_order: 2
-parent: Workshop Activities
+parent: Introductory Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 # Activity 1 - Creating Basic Multiple-Choice Surveys
