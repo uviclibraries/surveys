@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 1- Advanced Branching
+title: 1 - Advanced Branching
 nav_order: 1
 parent: Intermediate Activities
 ---
@@ -11,7 +11,7 @@ Advanced Branching allows you to customize survey paths based on pre-defined cri
 
 Common applications include:
 -	Terminating a form to screen participants who are not eligible.
--	  Example: If a survey is available only to UVic students, a "No" response to the question, "Are you a student at the University of Victoria?" would close the survey.
+  -	Example: If a survey is available only to UVic students, a "No" response to the question, "Are you a student at the University of Victoria?" would close the survey.
 -	Showing a follow-up question based on a response to a previous question
 -	  Example: Respondents are asked whether they have used a service. If they have answered "yes," they are taken to a follow-up question asking them to rate their satisfaction for that particular service.
 -	Displaying a message or warning
