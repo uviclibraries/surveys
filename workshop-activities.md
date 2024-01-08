@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Workshop Activities
+title: Introductory Activities
 nav_order: 3
 has_children: true
 has_toc: true
 ---
-# Workshop Activities
+# Introductory Activities
