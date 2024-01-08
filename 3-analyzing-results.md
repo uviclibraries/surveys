@@ -2,7 +2,7 @@
 layout: default
 title: 3 - Analyzing Results
 nav_order: 4
-parent: Workshop Activities
+parent: Introductory Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 # Activity 3 - Analyzing Survey Results
