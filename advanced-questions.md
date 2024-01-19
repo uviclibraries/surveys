@@ -13,4 +13,4 @@ parent: Intermediate Activities
 
 ## Ranking Questions
 
-[Optional: Survey Creation Reference Sheet](reference-sheet.html){: .btn .btn-blue 
+[Optional: Survey Creation Reference Sheet](reference-sheet.html){: .btn .btn-blue}  
