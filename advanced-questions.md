@@ -16,7 +16,7 @@ Purpose: To evaluate 1 or more items using the same column options for each row.
 3. In the **rows** you can add your options. For example "The DSC Survey Monkey workshop activities, the videos included in the workshop, the beginner activities".
 4. In the **columns options**: You can use the following options: " Very satified, Satified, Neither satified or disatisfied, disatified, very disatified."
 5. To turn this into a weighted question select **use Weights**<br>
-<img width=400px src="images/weights.png">
+<img width=500px src="images/weights.png"><br>
  If not all respondents can repond select **NA**. Also if your row questions are lengthy, select **options**, **adjust question layout** and then change **label width**. Under the options tab you may also make the question mandatory by selecting **require an answer to this question**
  
 ## Slider Questions 
