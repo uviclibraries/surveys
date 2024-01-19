@@ -11,7 +11,7 @@ parent: Intermediate Activities
 Purpose: To evaluate 1 or more items using the same column options for each row. It is suggested to limit the amount of questions to a maximum of 5 rows or less. This will help insure more validity in responses.
 
 1. First select the green **New Question button**, then click **Matrix/Rating Scale** (see screenshot).<br>
-<img width=300px src="images/matrix-select.png">
+<img width=400px src="images/matrix-select.png">
 
 2. 
 ## Slider Questions 
