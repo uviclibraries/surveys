@@ -27,7 +27,13 @@ Watch this [Matrix and Rating Scale questions](https://youtu.be/CHERtQUQadU?si=u
 <img width=400px src="images/single-row.png"><br>
 
 ## Slider Questions 
+To add a Slider Question watch this [Slider Question video](https://www.youtube.com/watch?v=hHHVdg_S-TI){:target="_blank"}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHHVdg_S-TI?si=KDZDVTkVuZcj0SRa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
+
+1. First select the green **New Question button**, then click **Slider** (see screenshot).<br>
+<img width=400px src="images/slider.png"><br>
 
 ## Ranking Questions
+Coming soon
 
 [Optional: Survey Creation Reference Sheet](reference-sheet.html){: .btn .btn-blue}  
