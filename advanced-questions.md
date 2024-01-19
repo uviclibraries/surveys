@@ -8,7 +8,7 @@ parent: Intermediate Activities
 # Optional Activity: Advanced Question Types 
 
 ## Matrix Questions
-Purpose: To evaluate 1 or more items using the same column options for each row. It is suggested to limit the amount of questions to a maximum of 5 rows or less. This will help insure more validity in responses.
+Purpose: To evaluate 1 or more items using the same column options for each row. It is suggested to limit the amount of questions to a maximum of 5 rows or less. This will help insure more validity in responses. 
 
 1. First select the green **New Question button**, then click **Matrix/Rating Scale** (see screenshot).<br>
 <img width=400px src="images/matrix-select.png">
@@ -20,7 +20,7 @@ Purpose: To evaluate 1 or more items using the same column options for each row.
  If not all respondents can repond select **NA**. Also if your row questions are lengthy, select **options**, **adjust question layout** and then change **label width**. Under the options tab you may also make the question mandatory by selecting **require an answer to this question**
 
 ## Single Row Rating
-1. Following the same steps of a matrix question, you do not have step 3 of adding rows as there will only be the main question and a rating scale. To do this select **"Make this a single-row rating scale (remove row choices)."**. (see screenshot below)
+1. Following the same steps of a matrix question, you do not have step 3 of adding rows as there will only be the main question and a rating scale. To do this select **"Make this a single-row rating scale (remove row choices)."**. (see screenshot below)<br>
 <img width=400px src="images/single-row.png"><br>
 
 ## Slider Questions 
