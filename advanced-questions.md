@@ -31,7 +31,7 @@ To add a Slider Question watch this [Slider Question video](https://www.youtube.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hHHVdg_S-TI?si=KDZDVTkVuZcj0SRa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
 
 1. First select the green **New Question button**, then click **Slider** (see screenshot).<br>
-<img width=400px src="images/slider.png"><br>
+<img width=350px src="images/slider.png"><br>
 
 ## Ranking Questions
 Coming soon
