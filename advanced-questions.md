@@ -10,6 +10,8 @@ parent: Intermediate Activities
 ## Matrix Questions
 Purpose: To evaluate 1 or more items using the same column options for each row. It is suggested to limit the amount of questions to a maximum of 5 rows or less. This will help insure more validity in responses. 
 
+<iframe allowtransparency="true" title="Wistia video player" allowFullscreen frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" src="https://fast.wistia.net/embed/iframe/a0feccaty0" width="400" height="225"></iframe><br>
+
 1. First select the green **New Question button**, then click **Matrix/Rating Scale** (see screenshot).<br>
 <img width=400px src="images/matrix-select.png">
 2. Now enter **a question**. For example you could enter the following question: "how satisfied or disatisfied were you with each of the following statements?" 
