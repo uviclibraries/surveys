@@ -18,7 +18,11 @@ Purpose: To evaluate 1 or more items using the same column options for each row.
 5. To turn this into a weighted question select **use Weights**<br>
 <img width=500px src="images/weights.png"><br>
  If not all respondents can repond select **NA**. Also if your row questions are lengthy, select **options**, **adjust question layout** and then change **label width**. Under the options tab you may also make the question mandatory by selecting **require an answer to this question**
- 
+
+## Single Row Rating
+1. Following the same steps of a matrix question, you do not have step 3 of adding rows as there will only be the main question and a rating scale. To do this select **"Make this a single-row rating scale (remove row choices)."**. (see screenshot below)
+<img width=400px src="images/single-row.png"><br>
+
 ## Slider Questions 
 
 ## Ranking Questions
