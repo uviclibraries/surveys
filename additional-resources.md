@@ -2,7 +2,6 @@
 layout: default
 title: Additional Resources
 nav_order: 8
-parent: Additional Resources
 ---
 # Additional Resources & Acknowledgements
 
