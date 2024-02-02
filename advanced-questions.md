@@ -38,6 +38,6 @@ To add a Slider Question watch this [Slider Question video](https://www.youtube.
 <img width=350px src="images/ranking.png"><br>
 2. Next ask a question regarding preference, for example: Rank the following in order preference, 1 being your preferred choice and 5 being least preferred.
 3. Add in the examples you wish respondents to rank, example flavours of ice cream (chocolate, vanilla, butterscotch etc). See scrennshot for an example.<br>
-<img width=350px src="images/rank-pref.png"><br>
+<img width=400px src="images/rank-pref.png"><br>
 
 [Optional: Survey Creation Reference Sheet](reference-sheet.html){: .btn .btn-blue}  
