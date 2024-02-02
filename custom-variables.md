@@ -30,5 +30,5 @@ In order to eliminate bias and improve your survey, you may also think about usi
 To do this you follow similar steps to the custom variables one. All of these features are changeable once you clikc on **logic**.
 
 For more information about these techniques. Visit [These Survey Tips](https://www.surveymonkey.com/curiosity/eliminate-order-bias-to-improve-your-survey-responses/){:target="_blank"}
-
-[NEXT STEP: Workshop Informal Credential](informal-credentials.html){: .btn .btn-blue }
+[Optional: Advanced Analysis Resourcesl Credential](advanced-analysis.html){: .btn .btn-blue }<br>
+or [NEXT STEP: Workshop Informal Credential](informal-credentials.html){: .btn .btn-blue }
