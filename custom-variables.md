@@ -14,7 +14,12 @@ Custom Variables are used to track data about people who complete your survey. I
 2. Click **custom variables** and add new by selecting **+ New custom variable** (see screenshot)<br>
 <img width=350px src="images/logic.png"><br>
 3. To set up a variable, you must add a variable name (which will go in the Web Link)
-4. Adding a label is optional but will show in your survey results and will help you during analysis in order to track your variables.
+4. Adding a label is optional but will show in your survey results and will help you during analysis in order to track your variables.<br>
 <img width=350px src="images/custom-variables.png"><br>
+
+In order to elimate bias and improve your survey, you may also think about using Question Randomization, Block Randomization and Page Randomization.
+To do this you follow similar steps to the custom variables one. All of these features are changeable once you clikc on **logic**.
+
+For more information about these techniques. Visit [These Survey Tips](https://www.surveymonkey.com/curiosity/eliminate-order-bias-to-improve-your-survey-responses/)
 
 [NEXT STEP: Workshop Informal Credential](informal-credentials.html){: .btn .btn-blue }
