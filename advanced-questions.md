@@ -40,4 +40,5 @@ To add a Slider Question watch this [Slider Question video](https://www.youtube.
 3. Add in the examples you wish respondents to rank, example flavours of ice cream (chocolate, vanilla, butterscotch etc). See scrennshot for an example.<br>
 <img width=400px src="images/rank-pref.png"><br>
 
+[Optional:Custom Variables and Embedded Data](custom-variables.html){: .btn .btn-blue}<br> 
 [Optional: Survey Creation Reference Sheet](reference-sheet.html){: .btn .btn-blue}  
