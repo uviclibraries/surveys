@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 5- Custom Variables/Advanced Logic
+title: 5- Custom Variables and Logic
 nav_order: 5
 parent: Intermediate Activities
 ---
