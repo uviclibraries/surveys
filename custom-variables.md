@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 5- Custom Variables
+title: 5- Custom Variables/Advanced Logic
 nav_order: 5
 parent: Intermediate Activities
 ---
@@ -20,6 +20,6 @@ Custom Variables are used to track data about people who complete your survey. I
 In order to elimate bias and improve your survey, you may also think about using Question Randomization, Block Randomization and Page Randomization.
 To do this you follow similar steps to the custom variables one. All of these features are changeable once you clikc on **logic**.
 
-For more information about these techniques. Visit [These Survey Tips](https://www.surveymonkey.com/curiosity/eliminate-order-bias-to-improve-your-survey-responses/)
+For more information about these techniques. Visit [These Survey Tips](https://www.surveymonkey.com/curiosity/eliminate-order-bias-to-improve-your-survey-responses/){:target="_blank"}
 
 [NEXT STEP: Workshop Informal Credential](informal-credentials.html){: .btn .btn-blue }
