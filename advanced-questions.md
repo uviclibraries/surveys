@@ -6,6 +6,7 @@ parent: Intermediate Activities
 ---
 
 # Optional Activity: Advanced Question Types 
+**In order to access this feature you must be logged into you UVic account (log in with SSO)**
 
 ## Matrix Questions
 Purpose: To evaluate 1 or more items using the same column options for each row. It is suggested to limit the amount of questions to a maximum of 5 rows or less. This will help insure more validity in responses. 
