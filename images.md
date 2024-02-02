@@ -47,7 +47,7 @@ Important tip: Images larger than 600px may be cut off. Make sure to view the pr
 ## Creating Image A/B Tests:
 1. Select **Build** and from the drop down select **Image A/B Test**, you can similarly do this for A/B Text as well
 2. Then add your images by clicking **uploading file**.
-
+More information about **A/B Tests (Random Assignment) can be found at this [site](https://help.surveymonkey.com/en/surveymonkey/create/ab-tests/){:target="_blank"}
 Notes: 
 - There are other ways to add images in Survey Monkey as well. For instance under page description, advance editor (which looks like 3 dots), you can click insert/edit image. 
 - You can also add a logo by clicking **+ Logo** at the top of the survey page. 
