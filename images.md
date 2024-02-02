@@ -25,7 +25,7 @@ There are multiple different uses for images in Survey Monkey:
 3. You may also check the box "include descriptive text for image", if you wish. If you do not select this and include description no text will be visible.
 
 ## Adding Images using Image Choice: Option B
-1. Select **Build** and under the drop down select **image choice**<br> <img src="images/image-choice.png"><br>
+1. Select **Build** and under the drop down select **image choice**<br> <img width=350px src="images/image-choice.png"><br>
 2. Write your question and add images to each response by clicking **Upload file**.
 3. You may also check the box "include descriptive text for image", if you wish. If you do not select this and include description no text will be visible.
 4. You may also make this question into a checkbox answer by clicking the box that says **Allow more than one answer to this question.**
