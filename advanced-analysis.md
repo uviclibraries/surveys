@@ -1,6 +1,9 @@
-
-
-
+---
+layout: default
+title: 6- Advanced Analysis
+nav_order: 6
+parent: Intermediate Activities
+---
 
 ## Analysis Techniques
 - [Crosstabs/Cross tabulation analysis](https://www.surveymonkey.com/mp/what-is-a-crosstab-and-when-to-use/){:target="_blank"}
