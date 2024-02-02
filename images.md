@@ -50,4 +50,4 @@ Notes:
 - There are other ways to add images in Survey Monkey as well. For instance under page description, advance editor (which looks like 3 dots), you can click insert/edit image. 
 - You can also add a logo by clicking **+ Logo** at the top of the survey page. 
 
-[Optional: Adding Audio](audio.html){: .btn .btn-blue 
+[Optional: Adding Audio](audio.html){: .btn .btn-blue} 
