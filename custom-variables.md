@@ -6,3 +6,6 @@ parent: Intermediate Activities
 ---
 
 # Optional Activity: Custom Variables and Embedded Data
+
+
+[NEXT STEP: Workshop Informal Credential](informal-credentials.html){: .btn .btn-blue }
