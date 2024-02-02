@@ -41,4 +41,4 @@ To add a Slider Question watch this [Slider Question video](https://www.youtube.
 <img width=400px src="images/rank-pref.png"><br>
 
 [Optional:Custom Variables and Embedded Data](custom-variables.html){: .btn .btn-blue}<br> 
-[Optional: Survey Creation Reference Sheet](reference-sheet.html){: .btn .btn-blue}  
+or [Optional: Survey Creation Reference Sheet](reference-sheet.html){: .btn .btn-blue}  
