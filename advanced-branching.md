@@ -6,7 +6,7 @@ parent: Intermediate Activities
 ---
 
 # Optional Activity: Advanced Branching
-**In order to access this feauture you must be logged into you UVic account (log in with SSO)**
+**In order to access this feature you must be logged into you UVic account (log in with SSO)**
 
 Advanced Branching allows you to customize survey paths based on pre-defined criteria. Depending on how respondents answer questions, they will take different routes through your survey. You can show or hide questions, navigate to different questions in the survey, or end the survey. This will help to ensure that only relevant data is gathered.
 
