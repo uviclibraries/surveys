@@ -2,7 +2,7 @@
 layout: default
 title: 4-Survey Best Practices Tips
 nav_order: 4
-parent: 
+parent: Introductory Activities
 ---
 
 # Survey Best Practices Tips  
