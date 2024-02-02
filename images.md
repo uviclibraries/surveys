@@ -29,7 +29,7 @@ There are multiple different uses for images in Survey Monkey:
 2. Write your question and add images to each response by clicking **Upload file**.
 3. You may also check the box "include descriptive text for image", if you wish. If you do not select this and include description no text will be visible.
 4. You may also make this question into a checkbox answer by clicking the box that says **Allow more than one answer to this question.**
-<img src="images/image-choice-example.png">
+<img width=350px src="images/image-choice-example.png">
 
 ## Background Image: Option C
 1. Select **Style** on the the left side bar.
@@ -38,7 +38,7 @@ There are multiple different uses for images in Survey Monkey:
 4. Next click the green **+ background button** <img src="images/background-button.png">
 5. YOu can choose to add an image from the image gallery or toggle to computer and upload your own by drag and dropping the file.
 6. You can modify the background opacity as well once you have added your image by moving the toggle side to side.<br>
-<img src="images/background.png">
+<img width=350px src="images/background.png">
 
 Important tip: Images larger than 600px may be cut off. Make sure to view the preview of all devices in Survey Monkey
 
