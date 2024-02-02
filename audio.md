@@ -16,3 +16,4 @@ parent: Intermediate Activities
 - You can also add video's to your survey. Please visit [here for steps](https://help.surveymonkey.com/en/surveymonkey/create/videos/#:~:text=You%20can%20add%20videos%20hosted,any%20questions%20in%20the%20survey){:target="_blank"}
 
 [Optional: Survey Advanced Branching ](advanced-questions.html){: .btn .btn-blue}
+or [NEXT STEP: Workshop Informal Credential](informal-credentials.html){: .btn .btn-blue }
