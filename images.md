@@ -6,7 +6,7 @@ parent: Intermediate Activities
 ---
 
 # Optional Activity: Adding Images
-**In order to access this feauture you must be logged into you UVic account (log in with SSO)**
+**In order to access this feature you must be logged into you UVic account (log in with SSO)**
 
 **Royalty-Free Photos you can use in your Survey:**
 - [Unsplash](https://unsplash.com/){:target="_blank"}
