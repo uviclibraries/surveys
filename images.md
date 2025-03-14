@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2- Adding Images
+title: 2 - Adding Images
 nav_order: 2
 parent: Intermediate Activities
 ---
