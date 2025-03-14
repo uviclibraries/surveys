@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 6- Advanced Analysis
+title: 6 - Advanced Analysis
 nav_order: 6
 parent: Intermediate Activities
 ---
