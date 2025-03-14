@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 4- Advanced Questions
+title: 4 - Advanced Questions
 nav_order: 4
 parent: Intermediate Activities
 ---
