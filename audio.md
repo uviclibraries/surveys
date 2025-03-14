@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3- Adding Audio
+title: 3 - Adding Audio
 nav_order: 3
 parent: Intermediate Activities
 ---
