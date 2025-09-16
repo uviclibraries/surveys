@@ -13,7 +13,7 @@ nav_order: 1
 
 ## Why SurveyMonkey?
 
-[SurveyMonkey](https://www.surveymonkey.com/){:target="_blank"} is an online survey creation tool that allows users to create powerful surveys, quickly deliver online surveys to participants, and rapidly visualize the survey results.  
+[SurveyMonkey](https://www.surveymonkey.com/){:target="_blank"} is an online survey creation tool that allows users to create powerful surveys, quickly deliver online surveys to participants, and rapidly visualize results.  This workshop will guide users through the SurveyMonkey interface, provide guidance on how to write effective questions, and introduce data analysis techniques. 
 
 ## Learning objectives
 
