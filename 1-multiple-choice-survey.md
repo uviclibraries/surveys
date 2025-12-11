@@ -12,8 +12,9 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 2. Once you are logged in, you will see the following page and on the top right a box that reads **CREATE SURVEY**.
     <img src="images/act-1/sm-1-01.png" style="margin-left:10px;width:600px;" alt="create survey">
 3.	Click on the buttom **CREATE SURVEY**, and then click on **START FROM SCRATCH** as in the picture below:
-    <img src="images/act-1/sm-1-02.png" style="margin-left:10px;width:200px;" alt="start from scratch">
-4.	 Click at the top, where it says "Untitled", and then the box below will appear. Change the name of your survey to <code>ENVIRONMENTAL ATTITUDE SURVEY</code>, and then click on "Save".
+   
+    <img src="images/act-1/sm-1-02.png" style="margin-left:10px;width:400px;" alt="start from scratch">
+4.	 Click on the top, where it says "Untitled", and then the box below will appear. Change the name of your survey to <code>ENVIRONMENTAL ATTITUDE SURVEY</code>, and then click on "Save".
     <img src="images/other.png" style="text-align:center;width:600px;" alt="name survey">
 
 <!-- still need to update this animation -->
@@ -27,7 +28,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
     - On the top ribbon, you will see the stages of your survey from “SUMMARY" to "ANALYZE RESULTS”. 
     - Below the top ribbon, you will see that there are icons with options for your survey building process, such as “BUILD”, “STYLE”, etc.
     - On the left pane, you will see a different menu depending on the survey building process you choose. For example, if you choose "STYLE", you will see options to choose the settings and themes of your survey style.
-    - On the main area, you will see the title of your survey and a gray box to design a NEW QUESTION.
+    - In the main area, you will see the title of your survey and a gray box to design a NEW QUESTION.
    
    <img src="images/act-1/sm-1-04.png" style="margin-left:10px;width:600px;" alt="survey ready">
 
@@ -47,7 +48,10 @@ o	Not at all concerned
 <img src="images/act-1/sm-1-06.png" style="margin-left:10px; float:right; width:300px;" alt="new question">
 
 - _Tip! Make sure that the multiple-choice option is enabled in the box on the right side of the question. As you can see, there are many types of questions we can have, but today we are focusing on Multiple-choice._
-- As you type in you will see this on your screen, don’t forget to save it by clicking on the **SAVE** button at the end of the page.
+
+
+  
+- As you type in you will see the below iage on your screen, don’t forget to save it by clicking on the **SAVE** button at the end of the page.
     
     <img src="images/act-1/sm-1-newquestion.png" style="margin-left:10px;width:600px;" alt="new question screenshot">
     
@@ -73,7 +77,7 @@ o	Not at all concerned
 
     <img src="images/act-1/sm-1-10.png" style="margin-left:10px; width:400px;" alt="create survey">
     
-    Again, don't forget to make sure the question type selected is "Multiple choice". However, know that you can combine different types of questions within one survey. For example, you can have a survey with multiple-choice questions, image choice, comment box, among others! Today, we will focus on multiple-choice only, but you are welcome to explore any options you may want.
+- Again, don't forget to make sure the question type selected is "Multiple choice". However, know that you can combine different types of questions within one survey. For example, you can have a survey with multiple-choice questions, image choice, comment box, among others! Today, we will focus on multiple-choice only, but you are welcome to explore any options you may want.
 
     - Click **SAVE**.  Your survey should look like the following image:
     
@@ -90,6 +94,7 @@ o	Not at all concerned
    To copy and paste questions, Survey Monkey has a really useful tool that allows you to copy and paste questions in text format, and it will automatically format your questions into Survey Monkey, choosing what it considers to be the most appropriate question type.
 
    For that, click on the **Add Content** green button, and then select "Copy and paste questions".
+   
    <img src="images/act-1/sm-1-copyandpaste.png" style="margin-left:10px; width:200px;" alt="copy and paste">
 
    A pop-up window will appear. Copy and paste the questions below into the text box on the left.
@@ -175,7 +180,7 @@ How likely are you to buy a more expensive product if its packaging is more envi
 
 Then click on "Add 10 questions". You will see that Survey Monkey will automatically identify the questions and options for the multiple-choice question format. If it made a mistake, you can then edit the questions to fix it, by hovering over the question and clicking on the green "Edit" button.
 
- - _For example: Note that for question 8, you have an open-ended option, to add that, click on "Edit", and then delete the " Other (Please Specify)" from the multiple choice list, and type it down at the end of the question where it says **Add an “Other” Answer Option or Comment Field**:_
+ - _For example: Note that for question 8, you have an open-ended option, but Survey Monkey did not identify that. To correct that, click on "Edit", and then delete the " Other (Please Specify)" from the multiple choice list, and type it down at the end of the question where it says **Add an “Other” Answer Option or Comment Field**:_
 
  <img src="images/act-1/sm-1-13.png" style="margin-left:10px; width:600px;" alt="create survey">
 
