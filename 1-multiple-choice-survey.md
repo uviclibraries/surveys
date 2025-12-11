@@ -34,54 +34,50 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 6.	Now that you are more familiar with the SurveyMonkey workspace, let’s start building up our survey about environmental attitudes.
   
-    In the gray box, type in Q1 (question 1) <code>How concerned are you about air pollution?</code> and enter the answers below and finish this question by saving it:
+   In the gray box, type in Q1 (question 1) <code>How concerned are you about air pollution?</code> and enter the answers below and finish this question by saving it:
 
-    ```
-    How concerned are you about air pollution?
-    o	Extremely concerned
-    o	Very concerned 
-    o	Moderately concerned 
-    o	Slightly concerned
-    o	Not at all concerned
-    ```
+   ```
+   How concerned are you about air pollution?
+   o	Extremely concerned
+   o	Very concerned 
+   o	Moderately concerned 
+   o	Slightly concerned
+   o	Not at all concerned
+   ```
 
-    <img src="images/act-1/sm-1-06.png" style="margin-left:10px; float:right; width:300px;" alt="new question">
-
-- _Tip! Make sure that the multiple-choice option is enabled in the box on the right side of the question. As you can see, there are many types of questions we can have, but today we are focusing on Multiple-choice._
-<br>
-<br>
-<br> 
-- As you type in you will see the image below on your screen. Don’t forget to save it by clicking on the **SAVE** button at the end of the page.
+   <img src="images/act-1/sm-1-06.png" style="margin-left:10px; float:right; width:300px;" alt="new question">
+   
+   - _Tip! Make sure that the multiple-choice option is enabled in the box on the right side of the question. As you can see, there are many types of questions we can have, but today we are focusing on Multiple-choice._
+   - As you type in you will see the image below on your screen. Don’t forget to save it by clicking on the **SAVE** button at the end of the page.
+   
+   <img src="images/act-1/sm-1-newquestion.png" style="margin-left:10px;width:600px;" alt="new question screenshot">
     
-    <img src="images/act-1/sm-1-newquestion.png" style="margin-left:10px;width:600px;" alt="new question screenshot">
+   Once you save your first survey question, it will look like this:
     
-    Once you save your first survey question, it will look like this:
+   <img src="images/act-1/sm-1-08.png" style="margin-left:10px; width:500px;" alt="first question">
     
-    <img src="images/act-1/sm-1-08.png" style="margin-left:10px; width:500px;" alt="first question">
+   - Note that there are some boxes for you to edit your question and answers, apply logic to it, copy the question or delete it. Feel free to either explore it or move to the next step.
     
-    - Note that there are some boxes for you to edit your question and answers, apply logic to it, copy the question or delete it. Feel free to either explore it or move to the next step.
-    
-    <img src="images/act-1/sm-1-09.png" style="margin-left:10px; float:right; width:200px;" alt="create survey">
+   <img src="images/act-1/sm-1-09.png" style="margin-left:10px; float:right; width:200px;" alt="create survey">
 
 7.	Let’s move on and add another question by clicking in the green box **Add Content**, and then clicking on "Question".
-    - Type in question 2 as below:
+   - Type in question 2 as below:
+   ```
+   How concerned are you about the extinction of endangered animals?
+   o	Extremely concerned
+   o	Very concerned 
+   o	Moderately concerned 
+   o	Slightly concerned
+   o	Not at all concerned
+   ```
 
-    ```
-    How concerned are you about the extinction of endangered animals?
-    o	Extremely concerned
-    o	Very concerned 
-    o	Moderately concerned 
-    o	Slightly concerned
-    o	Not at all concerned
-    ```
-
-    <img src="images/act-1/sm-1-10.png" style="margin-left:10px; width:400px;" alt="create survey">
+   <img src="images/act-1/sm-1-10.png" style="margin-left:10px; width:400px;" alt="create survey">
     
-    - Again, don't forget to make sure the question type selected is "Multiple choice". However, know that you can combine different types of questions within one survey. For example, you can have a survey with multiple-choice questions, image choice, comment box, among others! Today, we will focus on multiple-choice only, but you are welcome to explore any options you may want.
+   - Again, don't forget to make sure the question type selected is "Multiple choice". However, know that you can combine different types of questions within one survey. For example, you can have a survey with multiple-choice questions, image choice, comment box, among others! Today, we will focus on multiple-choice only, but you are welcome to explore any options you may want.
 
-    - Click **SAVE**.  Your survey should look like the following image:
+   - Click **SAVE**.  Your survey should look like the following image:
     
-    <img src="images/act-1/sm-1-11.png" style="margin-left:10px; width:400px;" alt="create survey">
+   <img src="images/act-1/sm-1-11.png" style="margin-left:10px; width:400px;" alt="create survey">
 
 <!-- still need to update this animation -->
 <!--    <button onclick="toggle('gif2')">Show/Hide Animation</button> -->
