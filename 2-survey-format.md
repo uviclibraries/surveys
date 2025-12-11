@@ -12,11 +12,11 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 1. Now that our questions are complete, we can format our survey. It is a great time to use our creativity and think strategically about having a survey that engages the audience beyond the survey questions.
 
    We can add color to the survey, add a logo, a footer, the layout, fronts, and we can also choose different themes for the survey.  Click on the icon **STYLE** on the top left and modify the style of your survey by adding colors, changing the font, adding a image as a logo from your choosing and so on.
-<\-- need to update this animation -->
-<\-- <button onclick="toggle('gif1')">Show/Hide Animation</button> -->
-<\-- <div id="gif1"> -->
-<\-- <img src="images/gifs/sm-2-01.gif"> -->
-<\-- </div> -->
+<!--- need to update this animation --->
+<!--- <button onclick="toggle('gif1')">Show/Hide Animation</button> --->
+<!--- <div id="gif1"> --->
+<!--- <img src="images/gifs/sm-2-01.gif"> --->
+<!--- </div> --->
     
 2.	Choosing the FORMAT of your survey. This means that you can set how the questions will show up to the audience:
    1) as a classic survey all in a page,
@@ -52,11 +52,11 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
     
 If this were a research project, you'd send this link to invite people to participate in your survey! 
 
-</-- need to update animation -->    
-</--     <button onclick="toggle('gif2')">Show/Hide Animation</button> -->
-</--     <div id="gif2"> -->
-</--     <img src="images/gifs/sm-2-02.gif"> -->
-</--     </div> -->
+<!--- need to update animation --->    
+<!---     <button onclick="toggle('gif2')">Show/Hide Animation</button> --->
+<!---     <div id="gif2"> --->
+<!---     <img src="images/gifs/sm-2-02.gif"> --->
+<!---     </div> --->
 
 6.	Now we are all set up to collect answers! Copy the link and share with five people in this workshop, and make sure to also respond to the survey link that your colleagues will send to you. Please be aware that anyone with your survey link will be able to answer it. 
 
