@@ -25,10 +25,10 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 5.	Now you have created the workspace for your survey. Please take a moment to visualize and explore your SurveyMonkey workspace. 
 
-    - On the top ribbon, you will see the stages of your survey from “SUMMARY" to "ANALYZE RESULTS”. 
-    - Below the top ribbon, you will see that there are icons with options for your survey building process, such as “BUILD”, “STYLE”, etc.
-    - On the left pane, you will see a different menu depending on the survey building process you choose. For example, if you choose "STYLE", you will see options to choose the settings and themes of your survey style.
-    - In the main area, you will see the title of your survey and a gray box to design a NEW QUESTION.
+   - On the top ribbon, you will see the stages of your survey from “SUMMARY" to "ANALYZE RESULTS”. 
+   - Below the top ribbon, you will see that there are icons with options for your survey building process, such as “BUILD”, “STYLE”, etc.
+   - On the left pane, you will see a different menu depending on the survey building process you choose. For example, if you choose "STYLE", you will see options to choose the settings and themes of your survey style.
+   - In the main area, you will see the title of your survey and a gray box to design a NEW QUESTION.
    
    <img src="images/act-1/sm-1-04.png" style="margin-left:10px;width:600px;" alt="survey ready">
 
@@ -180,7 +180,7 @@ How likely are you to buy a more expensive product if its packaging is more envi
 
 Then click on "Add 10 questions". You will see that Survey Monkey will automatically identify the questions and options for the multiple-choice question format. If it made a mistake, you can then edit the questions to fix it, by hovering over the question and clicking on the green "Edit" button.
 
-    - _For example: Note that for question 8, you have an open-ended option, but Survey Monkey did not identify that. To correct that, click on "Edit", and then delete the " Other (Please Specify)" from the multiple choice list, and type it down at the end of the question where it says **Add an “Other” Answer Option or Comment Field**:_
+- _For example: Note that for question 8, you have an open-ended option, but Survey Monkey did not identify that. To correct that, click on "Edit", and then delete the " Other (Please Specify)" from the multiple choice list, and type it down at the end of the question where it says **Add an “Other” Answer Option or Comment Field**:_
 
  <img src="images/act-1/sm-1-13.png" style="margin-left:10px; width:600px;" alt="create survey">
 
