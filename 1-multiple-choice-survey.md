@@ -8,20 +8,21 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 # Activity 1 - Creating Basic Multiple-Choice Surveys
 
 1.	For this activity, make sure to login in on SurveyMonkey using your UVic credentials using the link [here](https://www.uvic.ca/systems/support/web/surveymonkey/index.php){:target="_blank"}
-    - Alternatively, you can use the [free version of SurveyMonkey](https://www.surveymonkey.com/){:target="_blank"} by using an email address. However, the free version may have some limitations whereas the UVic subscription is a complete one.
-2. Once you are logged in, you will see the following page and on the top right a box that reads **CREATE SURVEY**.
+    Alternatively, you can use the [free version of SurveyMonkey](https://www.surveymonkey.com/){:target="_blank"} by using an email address. However, the free version may have some limitations whereas the UVic subscription is a complete one.
+  	
+2.	Once you are logged in, you will see the following page and on the top right a box that reads **CREATE SURVEY**.
     <img src="images/act-1/sm-1-01.png" style="margin-left:10px;width:600px;" alt="create survey">
 3.	Click on the buttom **CREATE SURVEY**, and then click on **START FROM SCRATCH** as in the picture below:
-   
-    <img src="images/act-1/sm-1-02.png" style="margin-left:10px;width:400px;" alt="start from scratch">
+<br>
+<img src="images/act-1/sm-1-02.png" style="margin-left:10px;width:400px;" alt="start from scratch">
 4.	 Click on the top, where it says "Untitled", and then the box below will appear. Change the name of your survey to <code>ENVIRONMENTAL ATTITUDE SURVEY</code>, and then click on "Save".
     <img src="images/other.png" style="text-align:center;width:600px;" alt="name survey">
 
-<!-- still need to update this animation -->
-<!--    <button onclick="toggle('gif1')">Show/Hide Animation</button> -->
-<!--    <div id="gif1"> -->
-<!--    <img src="images/gifs/sm-1-01.gif"> -->
-<!--   </div> -->
+    <!-- still need to update this animation -->
+    <!--    <button onclick="toggle('gif1')">Show/Hide Animation</button> -->
+    <!--    <div id="gif1"> -->
+    <!--    <img src="images/gifs/sm-1-01.gif"> -->
+    <!--   </div> -->
 
 5.	Now you have created the workspace for your survey. Please take a moment to visualize and explore your SurveyMonkey workspace. 
 
@@ -36,22 +37,22 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
   
     In the gray box, type in Q1 (question 1) <code>How concerned are you about air pollution?</code> and enter the answers below and finish this question by saving it:
 
-```
-How concerned are you about air pollution?
-o	Extremely concerned
-o	Very concerned 
-o	Moderately concerned 
-o	Slightly concerned
-o	Not at all concerned
-```
+    ```
+    How concerned are you about air pollution?
+    o	Extremely concerned
+    o	Very concerned 
+    o	Moderately concerned 
+    o	Slightly concerned
+    o	Not at all concerned
+    ```
 
-<img src="images/act-1/sm-1-06.png" style="margin-left:10px; float:right; width:300px;" alt="new question">
+    <img src="images/act-1/sm-1-06.png" style="margin-left:10px; float:right; width:300px;" alt="new question">
 
 - _Tip! Make sure that the multiple-choice option is enabled in the box on the right side of the question. As you can see, there are many types of questions we can have, but today we are focusing on Multiple-choice._
-
-
-  
-- As you type in you will see the below iage on your screen, don’t forget to save it by clicking on the **SAVE** button at the end of the page.
+<br>
+<br>
+<br> 
+- As you type in you will see the image below on your screen. Don’t forget to save it by clicking on the **SAVE** button at the end of the page.
     
     <img src="images/act-1/sm-1-newquestion.png" style="margin-left:10px;width:600px;" alt="new question screenshot">
     
@@ -77,17 +78,17 @@ o	Not at all concerned
 
     <img src="images/act-1/sm-1-10.png" style="margin-left:10px; width:400px;" alt="create survey">
     
-- Again, don't forget to make sure the question type selected is "Multiple choice". However, know that you can combine different types of questions within one survey. For example, you can have a survey with multiple-choice questions, image choice, comment box, among others! Today, we will focus on multiple-choice only, but you are welcome to explore any options you may want.
+    - Again, don't forget to make sure the question type selected is "Multiple choice". However, know that you can combine different types of questions within one survey. For example, you can have a survey with multiple-choice questions, image choice, comment box, among others! Today, we will focus on multiple-choice only, but you are welcome to explore any options you may want.
 
     - Click **SAVE**.  Your survey should look like the following image:
     
     <img src="images/act-1/sm-1-11.png" style="margin-left:10px; width:400px;" alt="create survey">
 
-<!-- still need to update this animation -->
-<!--    <button onclick="toggle('gif2')">Show/Hide Animation</button> -->
-<!--    <div id="gif2"> -->
-<!--    <img src="images/gifs/sm-1-02.gif"> -->
-<!--    </div> -->
+    <!-- still need to update this animation -->
+    <!--    <button onclick="toggle('gif2')">Show/Hide Animation</button> -->
+    <!--    <div id="gif2"> -->
+    <!--    <img src="images/gifs/sm-1-02.gif"> -->
+    <!--    </div> -->
 
 8. Now let’s complete our multiple-choice question survey by adding more questions to it. You can either copy and paste the questions below or you can write your own questions. Feel free to also explore other types of questions beyond multiple-choice.
 
@@ -178,9 +179,9 @@ How likely are you to buy a more expensive product if its packaging is more envi
 
 <img src="images/act-1/sm-1-paste.png" style="margin-left:10px; width:600px;" alt="paste questions">
 
-Then click on "Add 10 questions". You will see that Survey Monkey will automatically identify the questions and options for the multiple-choice question format. If it made a mistake, you can then edit the questions to fix it, by hovering over the question and clicking on the green "Edit" button.
+    Then click on "Add 10 questions". You will see that Survey Monkey will automatically identify the questions and options for the multiple-choice question format. If it made a mistake, you can then edit the questions to fix it, by hovering over the question and clicking on the green "Edit" button.
 
- - _For example: Note that for question 8, you have an open-ended option, but Survey Monkey did not identify that. To correct that, click on "Edit", and then delete the " Other (Please Specify)" from the multiple choice list, and type it down at the end of the question where it says **Add an “Other” Answer Option or Comment Field**:_
+    - _For example: Note that for question 8, you have an open-ended option, but Survey Monkey did not identify that. To correct that, click on "Edit", and then delete the " Other (Please Specify)" from the multiple choice list, and type it down at the end of the question where it says **Add an “Other” Answer Option or Comment Field**:_
 
  <img src="images/act-1/sm-1-13.png" style="margin-left:10px; width:600px;" alt="create survey">
 
