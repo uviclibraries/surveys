@@ -7,22 +7,26 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 # Activity 3 - Analyzing Survey Results
 
-1.	Now that some people have answered your survey, let’s analyze the results! On the top ribbon click on **ANALYZE RESULTS** and you will see unique graphs according to the responses you got. For example: <br>
+1.	Now that some people have answered your survey, let’s analyze the results! On the top ribbon, click on **ANALYZE RESULTS**, and you will see unique graphs according to the responses you got. For example: <br>
     <img src="images/act-2/sm-2-01.png" style="width:500px;" alt="create survey"> 
    
-2.	There are several ways to explore the results, in this introductory workshop we will save all the graphs to our computer and they will be ready to be used on your presentations, papers, reports, etc. 
+2.	There are several ways to explore the results. In this introductory workshop, we will save all the graphs to our computer, and they will be ready to be used in your presentations, papers, reports, etc. 
+    - Click on the **Export** button, then **New export**.
+    <img src="images/act-2/sm-2-02.png" style="width:300px;" alt="create survey">
+    - This will open a window where you can choose what you want to export. To save all summaries at once, select "Question summaries" and "PPT". You can also choose if you want just charts or data tables, if you want to hide Survey Monkey branding, and specify the file name. For now, let's keep all tables and figures in the export option. After your selection is done, click on the green **EXPORT** button. 
+   <img src="images/act-2/sm-2-03.png" style="width:300px;" alt="create survey"> 
+    - The system will begin to prepare the file to be exported. Once the export is ready, a box will appear at the bottom right. Click **DOWNLOAD** to download the data.
+    <img src="images/act-2/sm-2-05.png" style="width:400px;" alt="create survey">
+    - You can create multiple exports, and if you want to download a file again, you can click on "Export" and then "Previous exports", and all your exports will be shown on the left panel.   
+    <img src="images/act-2/sm-2-04.png" style="width:400px;" alt="create survey">
 
-    <img src="images/act-2/sm-2-02.png" style="float:right; width:300px;" alt="create survey"> 
-    <img src="images/act-2/sm-2-03.png" style="width:300px;" alt="create survey"> 
-
-    - Click on the green **SAVE AS** button, the **Export file**, and then click on **All summary data**.  Choose **PPT** and click **EXPORT**. The system will begin to prepare the file to be exported.
-    - Go to the left pane and click on the **EXPORTS** button, following that click on the file named **PPT: Data+ALL_111111.pptx** (the name will change according to the date).
-    <img src="images/act-2/sm-2-04.png" style="width:400px;" alt="create survey"> 
-
-     <button onclick="toggle('gif1')">Show/Hide Animation</button>
-     <div id="gif1">
-     <img src="images/gifs/sm-3-01.gif">
-     </div>
+    - If you want to download the individual responses so that you can perform additional analysis or create your own images, you can create a new export, but choose "Individual answers" instead of "Question summaries". Saving it as a .csv file with the condensed version will typically be a good option for further use of data, but do explore the other export options if you want.
+     <img src="images/act-2/sm-2-06.png" style="width:400px;" alt="create survey"> 
+<!--- still need to update this animation --->
+<!---     <button onclick="toggle('gif1')">Show/Hide Animation</button> --->
+<!---     <div id="gif1"> --->
+<!---     <img src="images/gifs/sm-3-01.gif"> --->
+<!---    </div> --->
 
 3. You can now **Sign Out** of SurveyMonkey by clicking on your user name on the top right of the page. 
 
