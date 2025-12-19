@@ -33,11 +33,10 @@ SurveyMonkey has great resources on how to develop and design surveys. Beyond th
 - It is highly recommended that you first pilot test your survey with a small subset of people to identify areas for improvement. Ask respondents in your pilot study about the clarity of your survey questions.
 
 # Other useful links on survey best practices
-- [Designing a Survey](https://www.youtube.com/watch?v=mdVWbuffdNY){:target="_blank"} (5 minutes)
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=mdVWbuffdNY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-- [Creating Effective Surveys](https://www.youtube.com/watch?v=6H3AI0M6ZOk) (22 minute video)
+- [Designing a Survey](https://www.youtube.com/watch?v=mdVWbuffdNY){:target="_blank"} video (5 minutes)
+- [Creating Effective Surveys](https://www.youtube.com/watch?v=6H3AI0M6ZOk) video (22 minute video)
 - [Louisiana State University Guidelines for Survey Design](https://grok.lsu.edu/article.aspx?articleid=17958)
-- [Qualtrics How to create an effective survey in 15 simple tips](https://www.qualtrics.com/blog/how-to-create-a-survey/)
+- [Qualtrics - How to create an effective survey in 15 simple tips](https://www.qualtrics.com/blog/how-to-create-a-survey/)
 
 **Congratulations, you have finished this workshop!** To learn about how to get your workshop badge, click the button below for the Workshop Credentials. However, if you want to explore more ways to use SurveyMonkey, you might want to take a look at the optional intermediate activities.
 
