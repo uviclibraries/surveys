@@ -29,9 +29,9 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
    - Next to the option “ONE QUESTION AT A TIME”, you can click on the **arrow >** and customize the button to pass from one question to another. You can, for instance, replace “OK” by typing in “Next question”, “Next”, etc.
 
    <img src="images/act-1/sm-1-16.png" style="margin-left:10px; width:200px;" alt="create survey">
+   <br>   
    <img src="images/act-1/sm-1-previewsurvey.png" style="margin-left:10px; float:right; width:100px;" alt="preview survey">
-
-3.	Now let’s go to the top ribbon and explore the option **Preview Survey**. This will open a new tab, where you can have a view of how our survey will look on different types of screens using the device view options at the bottom right of the page.
+3.	Now let’s go to the top ribbon and explore the option **Preview Survey**. This will open a new tab, where you can have a view of how your survey will look on different types of screens using the device view options at the bottom right of the page.
    <img src="images/act-1/sm-1-18.png" style="margin-left:20px; border: 5px solid #555; width:150px;" alt="device view">
    For example, if you choose to preview the phone option, this is what you would see in this preview window:
     <img src="images/act-1/sm-1-17.png" style="margin-left:10px; width:500px;" alt="create survey"> 
