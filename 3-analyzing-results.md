@@ -50,6 +50,4 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
         }
     }
 </script>
-[Reference Sheet](reference-sheet.html){: .btn .btn-blue }<br> or
-[Optional: Advanced Branching](advanced-branching.html){: .btn .btn-blue }<br> or
-[NEXT STEP: Workshop Informal Credential](informal-credentials.html){: .btn .btn-blue }
+[NEXT STEPS: Survey Best Practices Tips](reference-sheet.html){: .btn .btn-blue }
