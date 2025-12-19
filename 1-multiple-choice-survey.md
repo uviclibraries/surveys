@@ -73,7 +73,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
    <img src="images/act-1/sm-1-10.png" style="margin-left:10px; width:400px;" alt="create survey">
     
-   - Again, don't forget to make sure the question type selected is "Multiple choice". However, know that you can combine different types of questions within one survey. For example, you can have a survey with multiple-choice questions, image choice, comment box, among others! Today, we will focus on multiple-choice only, but you are welcome to explore any options you may want.
+   - Again, don't forget to make sure the question type selected is "Multiple choice". However, know that you can combine different types of questions within one survey. For example, you can have a survey with multiple-choice questions, image choice, comment box, among others! Today, we will focus on multiple-choice only, but you are welcome to explore any options you may want. [This link](https://www.surveymonkey.com/mp/survey-question-types/) explains the different types of questions available in SurveyMonkey.
 
    - Click **SAVE**.  Your survey should look like the following image:
     
