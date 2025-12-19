@@ -41,4 +41,4 @@ SurveyMonkey has great resources on how to develop and design surveys. Beyond th
 **Congratulations, you have finished this workshop!** To learn about how to get your workshop badge, click the button below for the Workshop Credentials. However, if you want to explore more ways to use SurveyMonkey, you might want to take a look at the optional intermediate activities.
 
 [NEXT STEP: Workshop Informal Credential](informal-credentials.html){: .btn .btn-blue }
-[OPTIONAL: Intermediate Activities](informal-credentials.html){: .btn .btn-blue }
+[OPTIONAL: Intermediate Activities](bonus-activities.html){: .btn .btn-blue }
