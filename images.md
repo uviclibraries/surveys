@@ -19,10 +19,10 @@ We will look into how to do each fo these options seprately.
 ## Adding Independent Images (Option A)
 1. Select **Build** on the top left, and under the drop-down select "view more".
    <br>
-   <img src="images/image0.png">
+   <img width=300px src="images/image0.png">
 5. Scroll down to Page Elements, and select "Image"
    <br>
-   <img src="images/image1.png">
+   <img width=300px src="images/image1.png">
 7. A box will appear where you can upload an image from your computer.
    <br>
    <img src="images/image3.png"><br>
@@ -44,10 +44,10 @@ We will look into how to do each fo these options seprately.
 1. Select **Style** on the the left side bar.
 2. Under style, select **Settings**
 3. Then select **Background** by clicking the plain white image.
-4. Next click the green **+ background button** <img src="images/image5.png">
+4. Next click the green **+ background button** <img width=300px src="images/image5.png">
 5. You can choose to add an image from the image gallery or toggle to computer and upload your own by dragging and dropping the file.
 6. You can modify the background opacity as well once you have added your image by clicking in the Background button under Style > Settings, and then moving the toggle side to side.<br>
-<img width=350px src="images/image6.png">
+<img width=300px src="images/image6.png">
 
 Important tip: Images larger than 600px may be cut off. Make sure to view the preview of all devices in Survey Monkey
 
