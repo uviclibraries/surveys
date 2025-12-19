@@ -18,24 +18,24 @@ Common applications include:
 -	Displaying a message or warning
 -	  Example: If a participant is ineligible for a survey based on a response, they will be directed to a message explaining why they are ineligible.
 
-Watch this [Introduction to Advanced Branching](https://www.youtube.com/watch?v=qOtHfjvqyho){:target="_blank"}
+Watch this [Introduction to Advanced Branching](https://www.youtube.com/watch?v=qOtHfjvqyho){:target="_blank"} (4 min)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qOtHfjvqyho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
-- Visit [Survey Monkey Advanced Branching information](https://help.surveymonkey.com/en/surveymonkey/create/advanced-branching/){:target="_blank"}<br> Note the video above is also found within this link. 
-- Visit [How to use Advanced Branching](https://help.smapply.io/hc/en-us/articles/115001421914-How-to-use-Advanced-Branching-Logic-to-Dynamically-Change-your-Form){:target="_blank"} for more information.
-- Visit [Common Use Cases](https://help.smapply.io/hc/en-us/articles/115001421914-How-to-use-Advanced-Branching-Logic-to-Dynamically-Change-your-Form#h_296ddad2-8897-4c90-826c-16bcba1b304a){:target="_blank"} for instructions on how to create some of the common applications mentioned above.
+- For more detailed information, visit [Survey Monkey Advanced Branching information](https://help.surveymonkey.com/en/surveymonkey/create/advanced-branching/){:target="_blank"}<br> Note the video above is also found within this link.
 
-1. Start by creating a survey using some questions with Checkboxes.
-2. Select **Page Logic** at the top of the page on the right hand side, then select **Advanced branching logic** from the dropdown menu.<br>
+Now, let's practice!
+
+1. Start by creating a survey using some questions with check boxes. You can use the survey you created in the Introductory Activities.
+2. Select **Page Logic** at the top of the page on the right-hand side, then select **Advanced branching logic** from the dropdown menu.<br>
 <img src="images/branching.png">
-3. Click **New Rule** and select the question you wish to add a rule to. <br>
+3. Click **New Rule** and select the question you wish to add a rule to.  Just as a practice, if you are using the survey we created in the introductory activities, choose the first question of your survey. <br>
 <img src="images/new-rule.png">
-4. Add Conditions by modifying **criteria** and implementing an **action** and **error message**.
+4. Add Conditions by modifying **criteria** and implementing an **action** and **error message**. If you are practicing using the survey we created in the introductory activities, add an action that skips question 2 if they answered that they are "not at all concerned" with air pollution.
 <img src="images/condition.png">
 
 5. Repeat for any additional questions you wish to add advanced branching to.
+6. Click on the "Save Rule" green button below to save your rules.
+7. Preview your survey to see if the rules you created are working.
+**Note:** rules within the same page only work if you are using the classic format; they do not work with "one question at a time" format. If you want to use same-page rules, you will need to change the format by clicking on "Format" on the top right.
 
-[Optional: Adding Images](images.html){: .btn .btn-blue }<br> or 
-[NEXT STEP: Workshop Informal Credential](informal-credentials.html){: .btn .btn-blue }
-
-
+[OPTIONAL: Adding Images](images.html){: .btn .btn-blue }
