@@ -40,4 +40,4 @@ To add a Slider Question watch this [Slider Question video](https://www.youtube.
 4. Add in the examples you wish respondents to rank, for example: chocolate, strawberry, vanilla, etc. See screenshot for an example.<br>
 <img width=400px src="images/advanced3.png"><br>
 
-[OPTIONAL:Custom Variables and Embedded Data](custom-variables.html){: .btn .btn-blue}<br> 
+[OPTIONAL: Custom Variables and Embedded Data](custom-variables.html){: .btn .btn-blue}<br> 
