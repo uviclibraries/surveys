@@ -20,11 +20,10 @@ nav_order: 1
 At the end of this workshop, you will be able to:
 
 1. Be able to navigate the SurveyMonkey interface 
-2. Explain the differences between types of survey questions (qualitative and quantitative)
+2. Explain the differences between types of survey questions
 3. Use SurveyMonkey on a browser or device via website or app
 4. Create at least 10 unique survey questions
-5. Create a survey from a template
-6. Create a new original survey and create a sharable link to potential survey participants
-7. Visualize survey results and export data to your computer
+5. Create a new original survey and create a shareable link to potential survey participants
+6. Visualize survey results and export data to your computer
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
