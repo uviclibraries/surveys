@@ -31,7 +31,7 @@ Now, let's practice!
 3. Click **New Rule** and select the question you wish to add a rule to.  Just as a practice, if you are using the survey we created in the introductory activities, choose the first question of your survey. <br>
 <img src="images/new-rule.png">
 4. Add Conditions by modifying **criteria** and implementing an **action** and **error message**. If you are practicing using the survey we created in the introductory activities, add an action that skips question 2 if they answered that they are "not at all concerned" with air pollution.
-<img src="images/condition.png">
+<img src="images/condition2.png">
 
 5. Repeat for any additional questions you wish to add advanced branching to.
 6. Click on the "Save Rule" green button below to save your rules.
