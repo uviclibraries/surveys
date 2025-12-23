@@ -55,7 +55,6 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
    <img src="images/act-1/sm-1-customlink.png" style="width:400px;" alt="custom link">
    
    If this were a research project, you'd send this link to invite people to participate in your survey! 
-   
    <!--- need to update animation --->    
    <!---     <button onclick="toggle('gif2')">Show/Hide Animation</button> --->
    <!---     <div id="gif2"> --->
