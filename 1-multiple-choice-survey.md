@@ -30,7 +30,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
    - On the left pane, you will see a different menu depending on the survey building process you choose. For example, if you choose "STYLE", you will see options to choose the settings and themes of your survey style.
    - In the main area, you will see the title of your survey and a gray box to design a NEW QUESTION.
 
-    <img src="images/act-1/sm-1-04.png" style="margin-left:10px;width:600px;" alt="survey ready">
+    ![Survey Ready](images/act-1/sm-1-04.png){: style="margin-left:10px;width:600px"}
 
 6.	Now that you are more familiar with the SurveyMonkey workspace, let’s start building up our survey about environmental attitudes.
   
