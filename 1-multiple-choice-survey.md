@@ -78,11 +78,11 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
       ![Create survey](images/act-1/sm-1-11.png){: style="margin-left:10px; width:400px;"}
     
-<!-- still need to update this animation -->
-<!--    <button onclick="toggle('gif2')">Show/Hide Animation</button> -->
-<!--    <div id="gif2"> -->
-<!--    <img src="images/gifs/sm-1-02.gif"> -->
-<!--    </div> -->  
+    <!-- still need to update this animation -->
+    <!--    <button onclick="toggle('gif2')">Show/Hide Animation</button> -->
+    <!--    <div id="gif2"> -->
+    <!--    <img src="images/gifs/sm-1-02.gif"> -->
+    <!--    </div> -->  
 8. Now let’s complete our multiple-choice question survey by adding more questions to it. You can either copy and paste the questions below or you can write your own questions. Feel free to also explore other types of questions beyond multiple-choice.
 
     To copy and paste questions, Survey Monkey has a really useful tool that allows you to copy and paste questions in text format, and it will automatically format your questions into Survey Monkey, choosing what it considers to be the most appropriate question type.
