@@ -57,7 +57,7 @@ The A/B Image option allows you to display different images for different sets o
 2. Then add your images by clicking **uploading file**. You can add up to 20 images.
 3. Next to the image, choose the % of respondents that will be shown each image.
    
-More information about **A/B Tests (Random Assignment) can be found at this [site](https://help.surveymonkey.com/en/surveymonkey/create/ab-tests/){:target="_blank"}
+More information about **A/B Tests** (Random Assignment) can be found at this [site](https://help.surveymonkey.com/en/surveymonkey/create/ab-tests/){:target="_blank"}
 
 ## Final notes 
 - There are other ways to add images in Survey Monkey as well. For instance, you can also add a logo by clicking **+ Logo** at the top of the survey page.
