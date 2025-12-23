@@ -5,6 +5,9 @@ nav_order: 8
 ---
 # Additional Resources & Acknowledgements
 
+## Workshop slides
+- Follow [this link](https://docs.google.com/presentation/d/1wkkt7k5gYjoTuwPmZ_Xa6XXHPxeCnmsCJ2OTha7ihkg/edit?slide=id.p1#slide=id.p1) for the introductory slides
+
 ## SurveyMonkey Resources
 - [SurveyMonkey Help Center](https://help.surveymonkey.com/en/?l=en_US&?ut_source3=megamenu){:target="_blank"}
 - [SurveyMonkey Templates](https://www.surveymonkey.com/mp/survey-templates/?ut_source=header){:target="_blank"}
