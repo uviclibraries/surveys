@@ -38,7 +38,8 @@ SurveyMonkey has great resources on how to develop and design surveys. Beyond th
 - [Louisiana State University Guidelines for Survey Design](https://grok.lsu.edu/article.aspx?articleid=17958)
 - [Qualtrics - How to create an effective survey in 15 simple tips](https://www.qualtrics.com/blog/how-to-create-a-survey/)
 
-**Congratulations, you have finished this workshop!** To learn about how to get your workshop badge, click the button below for the Workshop Credentials. However, if you want to explore more ways to use SurveyMonkey, you might want to take a look at the optional intermediate activities.
+**Congratulations, you have finished this workshop!** To learn about how to get your workshop badge, click the button below for the Workshop Credentials. However, if you want to explore more ways to use SurveyMonkey, you might want to take a look at the optional intermediate activities. We also have a page with additional resources, including links to advanced analysis techniques, if you want to check that out.
 
 [NEXT STEP: Workshop Informal Credential](informal-credentials.html){: .btn .btn-blue }
 [OPTIONAL: Intermediate Activities](bonus-activities.html){: .btn .btn-blue }
+[OPTIONAL: Additional Resources](additional-resources.html){: .btn .btn-blue }
