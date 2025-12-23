@@ -24,13 +24,12 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 <!--   </div> -->
 
 5.	Now you have created the workspace for your survey. Please take a moment to visualize and explore your SurveyMonkey workspace. 
-
    - On the top ribbon, you will see the stages of your survey from “SUMMARY" to "ANALYZE RESULTS”. 
    - Below the top ribbon, you will see that there are icons with options for your survey building process, such as “BUILD”, “STYLE”, etc.
    - On the left pane, you will see a different menu depending on the survey building process you choose. For example, if you choose "STYLE", you will see options to choose the settings and themes of your survey style.
    - In the main area, you will see the title of your survey and a gray box to design a NEW QUESTION.
-   - ![Survey Ready](images/act-1/sm-1-04.png){: style="margin-left:10px;width:600px"}
-
+    ![Survey Ready](images/act-1/sm-1-04.png){: style="margin-left:10px;width:600px"}
+    
 6.	Now that you are more familiar with the SurveyMonkey workspace, let’s start building up our survey about environmental attitudes.
   
     In the gray box, type in Q1 (question 1) <code>How concerned are you about air pollution?</code> and enter the answers below and finish this question by saving it:
