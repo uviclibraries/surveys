@@ -71,7 +71,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
     ```
     
     ![create survey](images/act-1/sm-1-10.png){: style="margin-left:10px; width:400px;"}
-        
+       
     - Again, don't forget to make sure the question type selected is "Multiple choice". However, know that you can combine different types of questions within one survey. For example, you can have a survey with multiple-choice questions, image choice, comment box, among others! Today, we will focus on multiple-choice only, but you are welcome to explore any options you may want. [This link](https://www.surveymonkey.com/mp/survey-question-types/) explains the different types of questions available in SurveyMonkey.
     
     - Click **SAVE**.  Your survey should look like the following image:
@@ -82,8 +82,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 <!--    <button onclick="toggle('gif2')">Show/Hide Animation</button> -->
 <!--    <div id="gif2"> -->
 <!--    <img src="images/gifs/sm-1-02.gif"> -->
-<!--    </div> -->
-    
+<!--    </div> -->  
 8. Now let’s complete our multiple-choice question survey by adding more questions to it. You can either copy and paste the questions below or you can write your own questions. Feel free to also explore other types of questions beyond multiple-choice.
 
     To copy and paste questions, Survey Monkey has a really useful tool that allows you to copy and paste questions in text format, and it will automatically format your questions into Survey Monkey, choosing what it considers to be the most appropriate question type.
