@@ -46,6 +46,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
     ```
 
     - _Tip! Make sure that the multiple-choice option is enabled in the box on the right side of the question. As you can see, there are many types of questions we can have, but today we are focusing on Multiple-choice._
+    
     <img src="images/act-1/sm-1-06.png" style="margin-left:10px; width:300px;" alt="new question">
      
     - As you type in you will see the image below on your screen. Don’t forget to save it by clicking on the **SAVE** button at the end of the page.
