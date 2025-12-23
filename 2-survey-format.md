@@ -47,10 +47,11 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 4.	Once your survey is set up, it is time to collect responses. On the top ribbon of the page, click on **COLLECT RESPONSES**.
 5.	You will be sent to the following image, where the link for your survey will be shown. Moreover, you will have many other options to spread your survey out. Take a moment to read through the options. You could choose more than one way to share your survey, and each selection you make will create a new "collector" item in Survey Monkey.
+   
    <img src="images/act-1/sm-1-22.png" style="width:600px;" alt="create survey"> 
    
    For now, let's use the link. Since the link is already shown, click on "Copy" if you want to copy the link. Alternatively, if you want to edit the link for a custom URL, you can click on settings and then "customize":
-   <br>
+   
    <img src="images/act-1/sm-1-customlink.png" style="width:400px;" alt="custom link">
    
    If this were a research project, you'd send this link to invite people to participate in your survey! 
